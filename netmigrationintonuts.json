@@ -1,0 +1,1000 @@
+{"nuts_id":"BE100","nuts_name":"Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad","net_migr0111_pc":"9"}
+,{"nuts_id":"BE211","nuts_name":"Arr. Antwerpen","net_migr0111_pc":"5.2"}
+,{"nuts_id":"BE212","nuts_name":"Arr. Mechelen","net_migr0111_pc":"5.8"}
+,{"nuts_id":"BE213","nuts_name":"Arr. Turnhout","net_migr0111_pc":"5.5"}
+,{"nuts_id":"BE221","nuts_name":"Arr. Hasselt","net_migr0111_pc":"4.5"}
+,{"nuts_id":"BE222","nuts_name":"Arr. Maaseik","net_migr0111_pc":"3.2"}
+,{"nuts_id":"BE223","nuts_name":"Arr. Tongeren","net_migr0111_pc":"3.3"}
+,{"nuts_id":"BE231","nuts_name":"Arr. Aalst","net_migr0111_pc":"5.7"}
+,{"nuts_id":"BE232","nuts_name":"Arr. Dendermonde","net_migr0111_pc":"3.6"}
+,{"nuts_id":"BE233","nuts_name":"Arr. Eeklo","net_migr0111_pc":"4"}
+,{"nuts_id":"BE234","nuts_name":"Arr. Gent","net_migr0111_pc":"5.6"}
+,{"nuts_id":"BE235","nuts_name":"Arr. Oudenaarde","net_migr0111_pc":"5.4"}
+,{"nuts_id":"BE236","nuts_name":"Arr. Sint-Niklaas","net_migr0111_pc":"4.4"}
+,{"nuts_id":"BE241","nuts_name":"Arr. Halle-Vilvoorde","net_migr0111_pc":"5.4"}
+,{"nuts_id":"BE242","nuts_name":"Arr. Leuven","net_migr0111_pc":"4.8"}
+,{"nuts_id":"BE251","nuts_name":"Arr. Brugge","net_migr0111_pc":"3"}
+,{"nuts_id":"BE252","nuts_name":"Arr. Diksmuide","net_migr0111_pc":"4.2"}
+,{"nuts_id":"BE253","nuts_name":"Arr. Ieper","net_migr0111_pc":"1.3"}
+,{"nuts_id":"BE254","nuts_name":"Arr. Kortrijk","net_migr0111_pc":"0.9"}
+,{"nuts_id":"BE255","nuts_name":"Arr. Oostende","net_migr0111_pc":"9.4"}
+,{"nuts_id":"BE256","nuts_name":"Arr. Roeselare","net_migr0111_pc":"2.3"}
+,{"nuts_id":"BE257","nuts_name":"Arr. Tielt","net_migr0111_pc":"2.3"}
+,{"nuts_id":"BE258","nuts_name":"Arr. Veurne","net_migr0111_pc":"10.8"}
+,{"nuts_id":"BE310","nuts_name":"Arr. Nivelles","net_migr0111_pc":"6.5"}
+,{"nuts_id":"BE321","nuts_name":"Arr. Ath","net_migr0111_pc":"6.6"}
+,{"nuts_id":"BE322","nuts_name":"Arr. Charleroi","net_migr0111_pc":"1.4"}
+,{"nuts_id":"BE323","nuts_name":"Arr. Mons","net_migr0111_pc":"1.8"}
+,{"nuts_id":"BE324","nuts_name":"Arr. Mouscron","net_migr0111_pc":"4"}
+,{"nuts_id":"BE325","nuts_name":"Arr. Soignies","net_migr0111_pc":"4.9"}
+,{"nuts_id":"BE326","nuts_name":"Arr. Thuin","net_migr0111_pc":"3.4"}
+,{"nuts_id":"BE327","nuts_name":"Arr. Tournai","net_migr0111_pc":"4.7"}
+,{"nuts_id":"BE331","nuts_name":"Arr. Huy","net_migr0111_pc":"7.9"}
+,{"nuts_id":"BE332","nuts_name":"Arr. Liège","net_migr0111_pc":"4.4"}
+,{"nuts_id":"BE334","nuts_name":"Arr. Waremme","net_migr0111_pc":"10.9"}
+,{"nuts_id":"BE335","nuts_name":"Arr. Verviers - communes francophones","net_migr0111_pc":"3.3"}
+,{"nuts_id":"BE336","nuts_name":"Bezirk Verviers - Deutschsprachige Gemeinschaft","net_migr0111_pc":"5.4"}
+,{"nuts_id":"BE341","nuts_name":"Arr. Arlon","net_migr0111_pc":"7.9"}
+,{"nuts_id":"BE342","nuts_name":"Arr. Bastogne","net_migr0111_pc":"6.7"}
+,{"nuts_id":"BE343","nuts_name":"Arr. Marche-en-Famenne","net_migr0111_pc":"5.5"}
+,{"nuts_id":"BE344","nuts_name":"Arr. Neufchâteau","net_migr0111_pc":"6.4"}
+,{"nuts_id":"BE345","nuts_name":"Arr. Virton","net_migr0111_pc":"5.1"}
+,{"nuts_id":"BE351","nuts_name":"Arr. Dinant","net_migr0111_pc":"5.7"}
+,{"nuts_id":"BE352","nuts_name":"Arr. Namur","net_migr0111_pc":"5.4"}
+,{"nuts_id":"BE353","nuts_name":"Arr. Philippeville","net_migr0111_pc":"6.6"}
+,{"nuts_id":"BG311","nuts_name":"Vidin","net_migr0111_pc":"-10.6"}
+,{"nuts_id":"BG312","nuts_name":"Montana","net_migr0111_pc":"-8.7"}
+,{"nuts_id":"BG313","nuts_name":"Vratsa","net_migr0111_pc":"-16.3"}
+,{"nuts_id":"BG314","nuts_name":"Pleven","net_migr0111_pc":"-0.7"}
+,{"nuts_id":"BG315","nuts_name":"Lovech","net_migr0111_pc":"-7.3"}
+,{"nuts_id":"BG321","nuts_name":"Veliko Tarnovo","net_migr0111_pc":"-1.7"}
+,{"nuts_id":"BG322","nuts_name":"Gabrovo","net_migr0111_pc":"-8.2"}
+,{"nuts_id":"BG323","nuts_name":"Ruse","net_migr0111_pc":"-3.1"}
+,{"nuts_id":"BG324","nuts_name":"Razgrad","net_migr0111_pc":"-16.7"}
+,{"nuts_id":"BG325","nuts_name":"Silistra","net_migr0111_pc":"-11.6"}
+,{"nuts_id":"BG331","nuts_name":"Varna","net_migr0111_pc":"8.1"}
+,{"nuts_id":"BG332","nuts_name":"Dobrich","net_migr0111_pc":"-7.8"}
+,{"nuts_id":"BG333","nuts_name":"Shumen","net_migr0111_pc":"-6.4"}
+,{"nuts_id":"BG334","nuts_name":"Targovishte","net_migr0111_pc":"-6.3"}
+,{"nuts_id":"BG341","nuts_name":"Burgas","net_migr0111_pc":"1.5"}
+,{"nuts_id":"BG342","nuts_name":"Sliven","net_migr0111_pc":"-10.5"}
+,{"nuts_id":"BG343","nuts_name":"Yambol","net_migr0111_pc":"-12.7"}
+,{"nuts_id":"BG344","nuts_name":"Stara Zagora","net_migr0111_pc":"-4.2"}
+,{"nuts_id":"BG411","nuts_name":"Sofia (stolitsa)","net_migr0111_pc":"5.3"}
+,{"nuts_id":"BG412","nuts_name":"Sofia","net_migr0111_pc":"5.8"}
+,{"nuts_id":"BG413","nuts_name":"Blagoevgrad","net_migr0111_pc":"-3.8"}
+,{"nuts_id":"BG414","nuts_name":"Pernik","net_migr0111_pc":"-2.3"}
+,{"nuts_id":"BG415","nuts_name":"Kyustendil","net_migr0111_pc":"-7.1"}
+,{"nuts_id":"BG421","nuts_name":"Plovdiv","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"BG422","nuts_name":"Haskovo","net_migr0111_pc":"-6.7"}
+,{"nuts_id":"BG423","nuts_name":"Pazardzhik","net_migr0111_pc":"-5"}
+,{"nuts_id":"BG424","nuts_name":"Smolyan","net_migr0111_pc":"-11.8"}
+,{"nuts_id":"BG425","nuts_name":"Kardzhali","net_migr0111_pc":"-25.1"}
+,{"nuts_id":"CZ010","nuts_name":"Hlavní město Praha","net_migr0111_pc":"6.9"}
+,{"nuts_id":"CZ020","nuts_name":"Středočeský kraj","net_migr0111_pc":"13.2"}
+,{"nuts_id":"CZ031","nuts_name":"Jihočeský kraj","net_migr0111_pc":"2.1"}
+,{"nuts_id":"CZ032","nuts_name":"Plzeňský kraj","net_migr0111_pc":"4.4"}
+,{"nuts_id":"CZ041","nuts_name":"Karlovarský kraj","net_migr0111_pc":"0.3"}
+,{"nuts_id":"CZ042","nuts_name":"Ústecký kraj","net_migr0111_pc":"1.2"}
+,{"nuts_id":"CZ051","nuts_name":"Liberecký kraj","net_migr0111_pc":"2"}
+,{"nuts_id":"CZ052","nuts_name":"Královéhradecký kraj","net_migr0111_pc":"0.9"}
+,{"nuts_id":"CZ053","nuts_name":"Pardubický kraj","net_migr0111_pc":"1.7"}
+,{"nuts_id":"CZ063","nuts_name":"Vysočina","net_migr0111_pc":"0.1"}
+,{"nuts_id":"CZ064","nuts_name":"Jihomoravský kraj","net_migr0111_pc":"1.3"}
+,{"nuts_id":"CZ071","nuts_name":"Olomoucký kraj","net_migr0111_pc":"-0.2"}
+,{"nuts_id":"CZ072","nuts_name":"Zlínský kraj","net_migr0111_pc":"-0.7"}
+,{"nuts_id":"CZ080","nuts_name":"Moravskoslezský kraj","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"DK011","nuts_name":"Byen København","net_migr0111_pc":"2.4"}
+,{"nuts_id":"DK012","nuts_name":"Københavns omegn","net_migr0111_pc":"1.7"}
+,{"nuts_id":"DK013","nuts_name":"Nordsjælland","net_migr0111_pc":"3.5"}
+,{"nuts_id":"DK014","nuts_name":"Bornholm","net_migr0111_pc":"-0.3"}
+,{"nuts_id":"DK021","nuts_name":"Østsjælland","net_migr0111_pc":"2.7"}
+,{"nuts_id":"DK022","nuts_name":"Vest- og Sydsjælland","net_migr0111_pc":"5.1"}
+,{"nuts_id":"DK031","nuts_name":"Fyn","net_migr0111_pc":"2.6"}
+,{"nuts_id":"DK032","nuts_name":"Sydjylland","net_migr0111_pc":"0.7"}
+,{"nuts_id":"DK041","nuts_name":"Vestjylland","net_migr0111_pc":"0.2"}
+,{"nuts_id":"DK042","nuts_name":"Østjylland","net_migr0111_pc":"4.4"}
+,{"nuts_id":"DK050","nuts_name":"Nordjylland","net_migr0111_pc":"0.3"}
+,{"nuts_id":"DE111","nuts_name":"Stuttgart, Stadtkreis","net_migr0111_pc":"3.4"}
+,{"nuts_id":"DE112","nuts_name":"Böblingen","net_migr0111_pc":"-0.1"}
+,{"nuts_id":"DE113","nuts_name":"Esslingen","net_migr0111_pc":"1.9"}
+,{"nuts_id":"DE114","nuts_name":"Göppingen","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"DE115","nuts_name":"Ludwigsburg","net_migr0111_pc":"2.7"}
+,{"nuts_id":"DE116","nuts_name":"Rems-Murr-Kreis","net_migr0111_pc":"1.3"}
+,{"nuts_id":"DE117","nuts_name":"Heilbronn, Stadtkreis","net_migr0111_pc":"3.4"}
+,{"nuts_id":"DE118","nuts_name":"Heilbronn, Landkreis","net_migr0111_pc":"2"}
+,{"nuts_id":"DE119","nuts_name":"Hohenlohekreis","net_migr0111_pc":"0.8"}
+,{"nuts_id":"DE11A","nuts_name":"Schwäbisch Hall","net_migr0111_pc":"1.6"}
+,{"nuts_id":"DE11B","nuts_name":"Main-Tauber-Kreis","net_migr0111_pc":"-1"}
+,{"nuts_id":"DE11C","nuts_name":"Heidenheim","net_migr0111_pc":"-3.1"}
+,{"nuts_id":"DE11D","nuts_name":"Ostalbkreis","net_migr0111_pc":"-0.9"}
+,{"nuts_id":"DE121","nuts_name":"Baden-Baden, Stadtkreis","net_migr0111_pc":"9.4"}
+,{"nuts_id":"DE122","nuts_name":"Karlsruhe, Stadtkreis","net_migr0111_pc":"6.8"}
+,{"nuts_id":"DE123","nuts_name":"Karlsruhe, Landkreis","net_migr0111_pc":"3.6"}
+,{"nuts_id":"DE124","nuts_name":"Rastatt","net_migr0111_pc":"3"}
+,{"nuts_id":"DE125","nuts_name":"Heidelberg, Stadtkreis","net_migr0111_pc":"5"}
+,{"nuts_id":"DE126","nuts_name":"Mannheim, Stadtkreis","net_migr0111_pc":"3.2"}
+,{"nuts_id":"DE127","nuts_name":"Neckar-Odenwald-Kreis","net_migr0111_pc":"0.2"}
+,{"nuts_id":"DE128","nuts_name":"Rhein-Neckar-Kreis","net_migr0111_pc":"3.3"}
+,{"nuts_id":"DE129","nuts_name":"Pforzheim, Stadtkreis","net_migr0111_pc":"3.6"}
+,{"nuts_id":"DE12A","nuts_name":"Calw","net_migr0111_pc":"-0.9"}
+,{"nuts_id":"DE12B","nuts_name":"Enzkreis","net_migr0111_pc":"0.6"}
+,{"nuts_id":"DE12C","nuts_name":"Freudenstadt","net_migr0111_pc":"-0.3"}
+,{"nuts_id":"DE131","nuts_name":"Freiburg im Breisgau, Stadtkreis","net_migr0111_pc":"7.9"}
+,{"nuts_id":"DE132","nuts_name":"Breisgau-Hochschwarzwald","net_migr0111_pc":"4"}
+,{"nuts_id":"DE133","nuts_name":"Emmendingen","net_migr0111_pc":"4.6"}
+,{"nuts_id":"DE134","nuts_name":"Ortenaukreis","net_migr0111_pc":"2.6"}
+,{"nuts_id":"DE135","nuts_name":"Rottweil","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"DE136","nuts_name":"Schwarzwald-Baar-Kreis","net_migr0111_pc":"-0.3"}
+,{"nuts_id":"DE137","nuts_name":"Tuttlingen","net_migr0111_pc":"0.1"}
+,{"nuts_id":"DE138","nuts_name":"Konstanz","net_migr0111_pc":"5.9"}
+,{"nuts_id":"DE139","nuts_name":"Lörrach","net_migr0111_pc":"3.2"}
+,{"nuts_id":"DE13A","nuts_name":"Waldshut","net_migr0111_pc":"1.3"}
+,{"nuts_id":"DE141","nuts_name":"Reutlingen","net_migr0111_pc":"0.8"}
+,{"nuts_id":"DE142","nuts_name":"Tübingen, Landkreis","net_migr0111_pc":"3.4"}
+,{"nuts_id":"DE143","nuts_name":"Zollernalbkreis","net_migr0111_pc":"-1"}
+,{"nuts_id":"DE144","nuts_name":"Ulm, Stadtkreis","net_migr0111_pc":"4"}
+,{"nuts_id":"DE145","nuts_name":"Alb-Donau-Kreis","net_migr0111_pc":"0.9"}
+,{"nuts_id":"DE146","nuts_name":"Biberach","net_migr0111_pc":"2"}
+,{"nuts_id":"DE147","nuts_name":"Bodenseekreis","net_migr0111_pc":"5"}
+,{"nuts_id":"DE148","nuts_name":"Ravensburg","net_migr0111_pc":"2.5"}
+,{"nuts_id":"DE149","nuts_name":"Sigmaringen","net_migr0111_pc":"-2.7"}
+,{"nuts_id":"DE211","nuts_name":"Ingolstadt, Kreisfreie Stadt","net_migr0111_pc":"7.3"}
+,{"nuts_id":"DE212","nuts_name":"München, Kreisfreie Stadt","net_migr0111_pc":"9.6"}
+,{"nuts_id":"DE213","nuts_name":"Rosenheim, Kreisfreie Stadt","net_migr0111_pc":"4"}
+,{"nuts_id":"DE214","nuts_name":"Altötting","net_migr0111_pc":"1.6"}
+,{"nuts_id":"DE215","nuts_name":"Berchtesgadener Land","net_migr0111_pc":"6.3"}
+,{"nuts_id":"DE216","nuts_name":"Bad Tölz-Wolfratshausen","net_migr0111_pc":"4.8"}
+,{"nuts_id":"DE217","nuts_name":"Dachau","net_migr0111_pc":"6.3"}
+,{"nuts_id":"DE218","nuts_name":"Ebersberg","net_migr0111_pc":"7"}
+,{"nuts_id":"DE219","nuts_name":"Eichstätt","net_migr0111_pc":"3.1"}
+,{"nuts_id":"DE21A","nuts_name":"Erding","net_migr0111_pc":"6.8"}
+,{"nuts_id":"DE21B","nuts_name":"Freising","net_migr0111_pc":"5.4"}
+,{"nuts_id":"DE21C","nuts_name":"Fürstenfeldbruck","net_migr0111_pc":"5.2"}
+,{"nuts_id":"DE21D","nuts_name":"Garmisch-Partenkirchen","net_migr0111_pc":"3.3"}
+,{"nuts_id":"DE21E","nuts_name":"Landsberg a. Lech","net_migr0111_pc":"7.2"}
+,{"nuts_id":"DE21F","nuts_name":"Miesbach","net_migr0111_pc":"5.5"}
+,{"nuts_id":"DE21G","nuts_name":"Mühldorf a. Inn","net_migr0111_pc":"3.9"}
+,{"nuts_id":"DE21H","nuts_name":"München, Landkreis","net_migr0111_pc":"8.3"}
+,{"nuts_id":"DE21I","nuts_name":"Neuburg-Schrobenhausen","net_migr0111_pc":"2.6"}
+,{"nuts_id":"DE21J","nuts_name":"Pfaffenhofen a. d. Ilm","net_migr0111_pc":"4.5"}
+,{"nuts_id":"DE21K","nuts_name":"Rosenheim, Landkreis","net_migr0111_pc":"6.5"}
+,{"nuts_id":"DE21L","nuts_name":"Starnberg","net_migr0111_pc":"4.6"}
+,{"nuts_id":"DE21M","nuts_name":"Traunstein","net_migr0111_pc":"3.5"}
+,{"nuts_id":"DE21N","nuts_name":"Weilheim-Schongau","net_migr0111_pc":"3.8"}
+,{"nuts_id":"DE221","nuts_name":"Landshut, Kreisfreie Stadt","net_migr0111_pc":"11"}
+,{"nuts_id":"DE222","nuts_name":"Passau, Kreisfreie Stadt","net_migr0111_pc":"4.8"}
+,{"nuts_id":"DE223","nuts_name":"Straubing, Kreisfreie Stadt","net_migr0111_pc":"5.4"}
+,{"nuts_id":"DE224","nuts_name":"Deggendorf","net_migr0111_pc":"2.8"}
+,{"nuts_id":"DE225","nuts_name":"Freyung-Grafenau","net_migr0111_pc":"-1.5"}
+,{"nuts_id":"DE226","nuts_name":"Kelheim","net_migr0111_pc":"3.2"}
+,{"nuts_id":"DE227","nuts_name":"Landshut, Landkreis","net_migr0111_pc":"3.4"}
+,{"nuts_id":"DE228","nuts_name":"Passau, Landkreis","net_migr0111_pc":"2.1"}
+,{"nuts_id":"DE229","nuts_name":"Regen","net_migr0111_pc":"-1.5"}
+,{"nuts_id":"DE22A","nuts_name":"Rottal-Inn","net_migr0111_pc":"2.1"}
+,{"nuts_id":"DE22B","nuts_name":"Straubing-Bogen","net_migr0111_pc":"2.8"}
+,{"nuts_id":"DE22C","nuts_name":"Dingolfing-Landau","net_migr0111_pc":"1.2"}
+,{"nuts_id":"DE231","nuts_name":"Amberg, Kreisfreie Stadt","net_migr0111_pc":"3.7"}
+,{"nuts_id":"DE232","nuts_name":"Regensburg, Kreisfreie Stadt","net_migr0111_pc":"8.8"}
+,{"nuts_id":"DE233","nuts_name":"Weiden i. d. Opf, Kreisfreie Stadt","net_migr0111_pc":"1.6"}
+,{"nuts_id":"DE234","nuts_name":"Amberg-Sulzbach","net_migr0111_pc":"-1.6"}
+,{"nuts_id":"DE235","nuts_name":"Cham","net_migr0111_pc":"0.2"}
+,{"nuts_id":"DE236","nuts_name":"Neumarkt i. d. OPf.","net_migr0111_pc":"1.4"}
+,{"nuts_id":"DE237","nuts_name":"Neustadt a. d. Waldnaab","net_migr0111_pc":"-1.8"}
+,{"nuts_id":"DE238","nuts_name":"Regensburg, Landkreis","net_migr0111_pc":"4"}
+,{"nuts_id":"DE239","nuts_name":"Schwandorf","net_migr0111_pc":"1.9"}
+,{"nuts_id":"DE23A","nuts_name":"Tirschenreuth","net_migr0111_pc":"-2.7"}
+,{"nuts_id":"DE241","nuts_name":"Bamberg, Kreisfreie Stadt","net_migr0111_pc":"5.3"}
+,{"nuts_id":"DE242","nuts_name":"Bayreuth, Kreisfreie Stadt","net_migr0111_pc":"1.1"}
+,{"nuts_id":"DE243","nuts_name":"Coburg, Kreisfreie Stadt","net_migr0111_pc":"1"}
+,{"nuts_id":"DE244","nuts_name":"Hof, Kreisfreie Stadt","net_migr0111_pc":"-3.2"}
+,{"nuts_id":"DE245","nuts_name":"Bamberg, Landkreis","net_migr0111_pc":"1.3"}
+,{"nuts_id":"DE246","nuts_name":"Bayreuth, Landkreis","net_migr0111_pc":"0.1"}
+,{"nuts_id":"DE247","nuts_name":"Coburg, Landkreis","net_migr0111_pc":"-1.6"}
+,{"nuts_id":"DE248","nuts_name":"Forchheim","net_migr0111_pc":"1.2"}
+,{"nuts_id":"DE249","nuts_name":"Hof, Landkreis","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"DE24A","nuts_name":"Kronach","net_migr0111_pc":"-2.6"}
+,{"nuts_id":"DE24B","nuts_name":"Kulmbach","net_migr0111_pc":"-1.7"}
+,{"nuts_id":"DE24C","nuts_name":"Lichtenfels","net_migr0111_pc":"-0.8"}
+,{"nuts_id":"DE24D","nuts_name":"Wunsiedel i. Fichtelgebirge","net_migr0111_pc":"-3.9"}
+,{"nuts_id":"DE251","nuts_name":"Ansbach, Kreisfreie Stadt","net_migr0111_pc":"3.2"}
+,{"nuts_id":"DE252","nuts_name":"Erlangen, Kreisfreie Stadt","net_migr0111_pc":"4.2"}
+,{"nuts_id":"DE253","nuts_name":"Fürth, Kreisfreie Stadt","net_migr0111_pc":"5"}
+,{"nuts_id":"DE254","nuts_name":"Nürnberg, Kreisfreie Stadt","net_migr0111_pc":"5.8"}
+,{"nuts_id":"DE255","nuts_name":"Schwabach, Kreisfreie Stadt","net_migr0111_pc":"4.1"}
+,{"nuts_id":"DE256","nuts_name":"Ansbach, Landkreis","net_migr0111_pc":"-0.7"}
+,{"nuts_id":"DE257","nuts_name":"Erlangen-Höchstadt","net_migr0111_pc":"1.6"}
+,{"nuts_id":"DE258","nuts_name":"Fürth, Landkreis","net_migr0111_pc":"3.2"}
+,{"nuts_id":"DE259","nuts_name":"Nürnberger Land","net_migr0111_pc":"1.7"}
+,{"nuts_id":"DE25A","nuts_name":"Neustadt a. d. Aisch-Bad Windsheim","net_migr0111_pc":"1.1"}
+,{"nuts_id":"DE25B","nuts_name":"Roth","net_migr0111_pc":"1.3"}
+,{"nuts_id":"DE25C","nuts_name":"Weißenburg-Gunzenhausen","net_migr0111_pc":"-0.7"}
+,{"nuts_id":"DE261","nuts_name":"Aschaffenburg, Kreisfreie Stadt","net_migr0111_pc":"3.3"}
+,{"nuts_id":"DE262","nuts_name":"Schweinfurt, Kreisfreie Stadt","net_migr0111_pc":"2.3"}
+,{"nuts_id":"DE263","nuts_name":"Würzburg, Kreisfreie Stadt","net_migr0111_pc":"7.7"}
+,{"nuts_id":"DE264","nuts_name":"Aschaffenburg, Landkreis","net_migr0111_pc":"-0.1"}
+,{"nuts_id":"DE265","nuts_name":"Bad Kissingen","net_migr0111_pc":"-0.8"}
+,{"nuts_id":"DE266","nuts_name":"Rhön-Grabfeld","net_migr0111_pc":"-2.8"}
+,{"nuts_id":"DE267","nuts_name":"Haßberge","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"DE268","nuts_name":"Kitzingen","net_migr0111_pc":"1.1"}
+,{"nuts_id":"DE269","nuts_name":"Miltenberg","net_migr0111_pc":"-1.6"}
+,{"nuts_id":"DE26A","nuts_name":"Main-Spessart","net_migr0111_pc":"-1"}
+,{"nuts_id":"DE26B","nuts_name":"Schweinfurt, Landkreis","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"DE26C","nuts_name":"Würzburg, Landkreis","net_migr0111_pc":"0"}
+,{"nuts_id":"DE271","nuts_name":"Augsburg, Kreisfreie Stadt","net_migr0111_pc":"5.9"}
+,{"nuts_id":"DE272","nuts_name":"Kaufbeuren, Kreisfreie Stadt","net_migr0111_pc":"3.5"}
+,{"nuts_id":"DE273","nuts_name":"Kempten (Allgäu), Kreisfreie Stadt","net_migr0111_pc":"3.9"}
+,{"nuts_id":"DE274","nuts_name":"Memmingen, Kreisfreie Stadt","net_migr0111_pc":"2.6"}
+,{"nuts_id":"DE275","nuts_name":"Aichach-Friedberg","net_migr0111_pc":"3.1"}
+,{"nuts_id":"DE276","nuts_name":"Augsburg, Landkreis","net_migr0111_pc":"1.9"}
+,{"nuts_id":"DE277","nuts_name":"Dillingen a.d. Donau","net_migr0111_pc":"0.8"}
+,{"nuts_id":"DE278","nuts_name":"Günzburg","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"DE279","nuts_name":"Neu-Ulm","net_migr0111_pc":"3.2"}
+,{"nuts_id":"DE27A","nuts_name":"Lindau (Bodensee)","net_migr0111_pc":"5.8"}
+,{"nuts_id":"DE27B","nuts_name":"Ostallgäu","net_migr0111_pc":"2.5"}
+,{"nuts_id":"DE27C","nuts_name":"Unterallgäu","net_migr0111_pc":"2.1"}
+,{"nuts_id":"DE27D","nuts_name":"Donau-Ries","net_migr0111_pc":"-0.1"}
+,{"nuts_id":"DE27E","nuts_name":"Oberallgäu","net_migr0111_pc":"2.9"}
+,{"nuts_id":"DE300","nuts_name":"Berlin","net_migr0111_pc":"2.9"}
+,{"nuts_id":"DE401","nuts_name":"Brandenburg an der Havel, Kreisfreie Stadt","net_migr0111_pc":"-3.4"}
+,{"nuts_id":"DE402","nuts_name":"Cottbus, Kreisfreie Stadt","net_migr0111_pc":"-2.8"}
+,{"nuts_id":"DE403","nuts_name":"Frankfurt (Oder), Kreisfreie Stadt","net_migr0111_pc":"-14"}
+,{"nuts_id":"DE404","nuts_name":"Potsdam, Kreisfreie Stadt","net_migr0111_pc":"19"}
+,{"nuts_id":"DE405","nuts_name":"Barnim","net_migr0111_pc":"6.6"}
+,{"nuts_id":"DE406","nuts_name":"Dahme-Spreewald","net_migr0111_pc":"4.9"}
+,{"nuts_id":"DE407","nuts_name":"Elbe-Elster","net_migr0111_pc":"-9.7"}
+,{"nuts_id":"DE408","nuts_name":"Havelland","net_migr0111_pc":"7"}
+,{"nuts_id":"DE409","nuts_name":"Märkisch-Oderland","net_migr0111_pc":"4.3"}
+,{"nuts_id":"DE40A","nuts_name":"Oberhavel","net_migr0111_pc":"8.5"}
+,{"nuts_id":"DE40B","nuts_name":"Oberspreewald-Lausitz","net_migr0111_pc":"-11.2"}
+,{"nuts_id":"DE40C","nuts_name":"Oder-Spree","net_migr0111_pc":"-3.3"}
+,{"nuts_id":"DE40D","nuts_name":"Ostprignitz-Ruppin","net_migr0111_pc":"-5.2"}
+,{"nuts_id":"DE40E","nuts_name":"Potsdam-Mittelmark","net_migr0111_pc":"-0.1"}
+,{"nuts_id":"DE40F","nuts_name":"Prignitz","net_migr0111_pc":"-8.9"}
+,{"nuts_id":"DE40G","nuts_name":"Spree-Neiße","net_migr0111_pc":"-13.7"}
+,{"nuts_id":"DE40H","nuts_name":"Teltow-Fläming","net_migr0111_pc":"3.9"}
+,{"nuts_id":"DE40I","nuts_name":"Uckermark","net_migr0111_pc":"-10.7"}
+,{"nuts_id":"DE501","nuts_name":"Bremen, Kreisfreie Stadt","net_migr0111_pc":"4.2"}
+,{"nuts_id":"DE502","nuts_name":"Bremerhaven, Kreisfreie Stadt","net_migr0111_pc":"-2.6"}
+,{"nuts_id":"DE600","nuts_name":"Hamburg","net_migr0111_pc":"4.8"}
+,{"nuts_id":"DE711","nuts_name":"Darmstadt, Kreisfreie Stadt","net_migr0111_pc":"4.5"}
+,{"nuts_id":"DE712","nuts_name":"Frankfurt am Main, Kreisfreie Stadt","net_migr0111_pc":"3.6"}
+,{"nuts_id":"DE713","nuts_name":"Offenbach am Main, Kreisfreie Stadt","net_migr0111_pc":"0.5"}
+,{"nuts_id":"DE714","nuts_name":"Wiesbaden, Kreisfreie Stadt","net_migr0111_pc":"2.4"}
+,{"nuts_id":"DE715","nuts_name":"Bergstraße","net_migr0111_pc":"1.9"}
+,{"nuts_id":"DE716","nuts_name":"Darmstadt-Dieburg","net_migr0111_pc":"0.9"}
+,{"nuts_id":"DE717","nuts_name":"Groß-Gerau","net_migr0111_pc":"2.2"}
+,{"nuts_id":"DE718","nuts_name":"Hochtaunuskreis","net_migr0111_pc":"1.7"}
+,{"nuts_id":"DE719","nuts_name":"Main-Kinzig-Kreis","net_migr0111_pc":"1.6"}
+,{"nuts_id":"DE71A","nuts_name":"Main-Taunus-Kreis","net_migr0111_pc":"2.3"}
+,{"nuts_id":"DE71B","nuts_name":"Odenwaldkreis","net_migr0111_pc":"0.1"}
+,{"nuts_id":"DE71C","nuts_name":"Offenbach, Landkreis","net_migr0111_pc":"0.5"}
+,{"nuts_id":"DE71D","nuts_name":"Rheingau-Taunus-Kreis","net_migr0111_pc":"0.5"}
+,{"nuts_id":"DE71E","nuts_name":"Wetteraukreis","net_migr0111_pc":"2.6"}
+,{"nuts_id":"DE721","nuts_name":"Gießen, Landkreis","net_migr0111_pc":"2"}
+,{"nuts_id":"DE722","nuts_name":"Lahn-Dill-Kreis","net_migr0111_pc":"-1.2"}
+,{"nuts_id":"DE723","nuts_name":"Limburg-Weilburg","net_migr0111_pc":"-0.8"}
+,{"nuts_id":"DE724","nuts_name":"Marburg-Biedenkopf","net_migr0111_pc":"0"}
+,{"nuts_id":"DE725","nuts_name":"Vogelsbergkreis","net_migr0111_pc":"-3.8"}
+,{"nuts_id":"DE731","nuts_name":"Kassel, Kreisfreie Stadt","net_migr0111_pc":"2.6"}
+,{"nuts_id":"DE732","nuts_name":"Fulda","net_migr0111_pc":"0.4"}
+,{"nuts_id":"DE733","nuts_name":"Hersfeld-Rotenburg","net_migr0111_pc":"-2.6"}
+,{"nuts_id":"DE734","nuts_name":"Kassel, Landkreis","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"DE735","nuts_name":"Schwalm-Eder-Kreis","net_migr0111_pc":"-2.1"}
+,{"nuts_id":"DE736","nuts_name":"Waldeck-Frankenberg","net_migr0111_pc":"-1.9"}
+,{"nuts_id":"DE737","nuts_name":"Werra-Meißner-Kreis","net_migr0111_pc":"-3.3"}
+,{"nuts_id":"DE801","nuts_name":"Greifswald, Kreisfreie Stadt","net_migr0111_pc":"1.4"}
+,{"nuts_id":"DE802","nuts_name":"Neubrandenburg, Kreisfreie Stadt","net_migr0111_pc":"-10.9"}
+,{"nuts_id":"DE803","nuts_name":"Rostock, Kreisfreie Stadt","net_migr0111_pc":"2.5"}
+,{"nuts_id":"DE804","nuts_name":"Schwerin, Kreisfreie Stadt","net_migr0111_pc":"-3.5"}
+,{"nuts_id":"DE805","nuts_name":"Stralsund, Kreisfreie Stadt","net_migr0111_pc":"-1"}
+,{"nuts_id":"DE806","nuts_name":"Wismar, Kreisfreie Stadt","net_migr0111_pc":"-1.1"}
+,{"nuts_id":"DE807","nuts_name":"Bad Doberan","net_migr0111_pc":"0.9"}
+,{"nuts_id":"DE808","nuts_name":"Demmin","net_migr0111_pc":"-11.9"}
+,{"nuts_id":"DE809","nuts_name":"Güstrow","net_migr0111_pc":"-9.3"}
+,{"nuts_id":"DE80A","nuts_name":"Ludwigslust","net_migr0111_pc":"-4.5"}
+,{"nuts_id":"DE80B","nuts_name":"Mecklenburg-Strelitz","net_migr0111_pc":"-8.6"}
+,{"nuts_id":"DE80C","nuts_name":"Müritz","net_migr0111_pc":"-4.6"}
+,{"nuts_id":"DE80D","nuts_name":"Nordvorpommern","net_migr0111_pc":"-7.8"}
+,{"nuts_id":"DE80E","nuts_name":"Nordwestmecklenburg","net_migr0111_pc":"-3"}
+,{"nuts_id":"DE80F","nuts_name":"Ostvorpommern","net_migr0111_pc":"-4.9"}
+,{"nuts_id":"DE80G","nuts_name":"Parchim","net_migr0111_pc":"-8.7"}
+,{"nuts_id":"DE80H","nuts_name":"Rügen","net_migr0111_pc":"-7"}
+,{"nuts_id":"DE80I","nuts_name":"Uecker-Randow","net_migr0111_pc":"-11.1"}
+,{"nuts_id":"DE911","nuts_name":"Braunschweig, Kreisfreie Stadt","net_migr0111_pc":"4.2"}
+,{"nuts_id":"DE912","nuts_name":"Salzgitter, Kreisfreie Stadt","net_migr0111_pc":"-5.3"}
+,{"nuts_id":"DE913","nuts_name":"Wolfsburg, Kreisfreie Stadt","net_migr0111_pc":"2.3"}
+,{"nuts_id":"DE914","nuts_name":"Gifhorn","net_migr0111_pc":"0.6"}
+,{"nuts_id":"DE915","nuts_name":"Göttingen","net_migr0111_pc":"-1.1"}
+,{"nuts_id":"DE916","nuts_name":"Goslar","net_migr0111_pc":"-2.1"}
+,{"nuts_id":"DE917","nuts_name":"Helmstedt","net_migr0111_pc":"-2.3"}
+,{"nuts_id":"DE918","nuts_name":"Northeim","net_migr0111_pc":"-3.1"}
+,{"nuts_id":"DE919","nuts_name":"Osterode am Harz","net_migr0111_pc":"-2.8"}
+,{"nuts_id":"DE91A","nuts_name":"Peine","net_migr0111_pc":"2.2"}
+,{"nuts_id":"DE91B","nuts_name":"Wolfenbüttel","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"DE922","nuts_name":"Diepholz","net_migr0111_pc":"3.2"}
+,{"nuts_id":"DE923","nuts_name":"Hameln-Pyrmont","net_migr0111_pc":"-0.3"}
+,{"nuts_id":"DE925","nuts_name":"Hildesheim","net_migr0111_pc":"0"}
+,{"nuts_id":"DE926","nuts_name":"Holzminden","net_migr0111_pc":"-4.7"}
+,{"nuts_id":"DE927","nuts_name":"Nienburg (Weser)","net_migr0111_pc":"0.2"}
+,{"nuts_id":"DE928","nuts_name":"Schaumburg","net_migr0111_pc":"0.9"}
+,{"nuts_id":"DE929","nuts_name":"Region Hannover","net_migr0111_pc":"3"}
+,{"nuts_id":"DE931","nuts_name":"Celle","net_migr0111_pc":"0.8"}
+,{"nuts_id":"DE932","nuts_name":"Cuxhaven","net_migr0111_pc":"2"}
+,{"nuts_id":"DE933","nuts_name":"Harburg","net_migr0111_pc":"6.8"}
+,{"nuts_id":"DE934","nuts_name":"Lüchow-Dannenberg","net_migr0111_pc":"0.6"}
+,{"nuts_id":"DE935","nuts_name":"Lüneburg, Landkreis","net_migr0111_pc":"7.5"}
+,{"nuts_id":"DE936","nuts_name":"Osterholz","net_migr0111_pc":"3.6"}
+,{"nuts_id":"DE937","nuts_name":"Rotenburg (Wümme)","net_migr0111_pc":"1.9"}
+,{"nuts_id":"DE938","nuts_name":"Soltau-Fallingbostel","net_migr0111_pc":"1.8"}
+,{"nuts_id":"DE939","nuts_name":"Stade","net_migr0111_pc":"3.5"}
+,{"nuts_id":"DE93A","nuts_name":"Uelzen","net_migr0111_pc":"2.1"}
+,{"nuts_id":"DE93B","nuts_name":"Verden","net_migr0111_pc":"1.9"}
+,{"nuts_id":"DE941","nuts_name":"Delmenhorst, Kreisfreie Stadt","net_migr0111_pc":"-1.7"}
+,{"nuts_id":"DE942","nuts_name":"Emden, Kreisfreie Stadt","net_migr0111_pc":"4"}
+,{"nuts_id":"DE943","nuts_name":"Oldenburg (Oldenburg), Kreisfreie Stadt","net_migr0111_pc":"5.7"}
+,{"nuts_id":"DE944","nuts_name":"Osnabrück, Kreisfreie Stadt","net_migr0111_pc":"1.1"}
+,{"nuts_id":"DE945","nuts_name":"Wilhelmshaven, Kreisfreie Stadt","net_migr0111_pc":"0.7"}
+,{"nuts_id":"DE946","nuts_name":"Ammerland","net_migr0111_pc":"7.3"}
+,{"nuts_id":"DE947","nuts_name":"Aurich","net_migr0111_pc":"2.5"}
+,{"nuts_id":"DE948","nuts_name":"Cloppenburg","net_migr0111_pc":"2.8"}
+,{"nuts_id":"DE949","nuts_name":"Emsland","net_migr0111_pc":"2.3"}
+,{"nuts_id":"DE94A","nuts_name":"Friesland (D)","net_migr0111_pc":"1.7"}
+,{"nuts_id":"DE94B","nuts_name":"Grafschaft Bentheim","net_migr0111_pc":"4.3"}
+,{"nuts_id":"DE94C","nuts_name":"Leer","net_migr0111_pc":"3.1"}
+,{"nuts_id":"DE94D","nuts_name":"Oldenburg, Landkreis","net_migr0111_pc":"6.1"}
+,{"nuts_id":"DE94E","nuts_name":"Osnabrück, Landkreis","net_migr0111_pc":"0.9"}
+,{"nuts_id":"DE94F","nuts_name":"Vechta","net_migr0111_pc":"3.9"}
+,{"nuts_id":"DE94G","nuts_name":"Wesermarsch","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"DE94H","nuts_name":"Wittmund","net_migr0111_pc":"1.8"}
+,{"nuts_id":"DEA11","nuts_name":"Düsseldorf, Kreisfreie Stadt","net_migr0111_pc":"4.9"}
+,{"nuts_id":"DEA12","nuts_name":"Duisburg, Kreisfreie Stadt","net_migr0111_pc":"-1.5"}
+,{"nuts_id":"DEA13","nuts_name":"Essen, Kreisfreie Stadt","net_migr0111_pc":"1"}
+,{"nuts_id":"DEA14","nuts_name":"Krefeld, Kreisfreie Stadt","net_migr0111_pc":"0.6"}
+,{"nuts_id":"DEA15","nuts_name":"Mönchengladbach, Kreisfreie Stadt","net_migr0111_pc":"0.5"}
+,{"nuts_id":"DEA16","nuts_name":"Mülheim an der Ruhr,Kreisfreie Stadt","net_migr0111_pc":"1.7"}
+,{"nuts_id":"DEA17","nuts_name":"Oberhausen, Kreisfreie Stadt","net_migr0111_pc":"-0.2"}
+,{"nuts_id":"DEA18","nuts_name":"Remscheid, Kreisfreie Stadt","net_migr0111_pc":"-4.8"}
+,{"nuts_id":"DEA19","nuts_name":"Solingen, Kreisfreie Stadt","net_migr0111_pc":"-0.1"}
+,{"nuts_id":"DEA1A","nuts_name":"Wuppertal, Kreisfreie Stadt","net_migr0111_pc":"-1.7"}
+,{"nuts_id":"DEA1B","nuts_name":"Kleve","net_migr0111_pc":"4.8"}
+,{"nuts_id":"DEA1C","nuts_name":"Mettmann","net_migr0111_pc":"-0.2"}
+,{"nuts_id":"DEA1D","nuts_name":"Rhein-Kreis Neuss","net_migr0111_pc":"0.8"}
+,{"nuts_id":"DEA1E","nuts_name":"Viersen","net_migr0111_pc":"2.1"}
+,{"nuts_id":"DEA1F","nuts_name":"Wesel","net_migr0111_pc":"1.3"}
+,{"nuts_id":"DEA22","nuts_name":"Bonn, Kreisfreie Stadt","net_migr0111_pc":"6.5"}
+,{"nuts_id":"DEA23","nuts_name":"Köln, Kreisfreie Stadt","net_migr0111_pc":"4.2"}
+,{"nuts_id":"DEA24","nuts_name":"Leverkusen, Kreisfreie Stadt","net_migr0111_pc":"1.4"}
+,{"nuts_id":"DEA26","nuts_name":"Düren","net_migr0111_pc":"1.2"}
+,{"nuts_id":"DEA27","nuts_name":"Rhein-Erft-Kreis","net_migr0111_pc":"3.1"}
+,{"nuts_id":"DEA28","nuts_name":"Euskirchen","net_migr0111_pc":"3.3"}
+,{"nuts_id":"DEA29","nuts_name":"Heinsberg","net_migr0111_pc":"3.5"}
+,{"nuts_id":"DEA2A","nuts_name":"Oberbergischer Kreis","net_migr0111_pc":"-0.9"}
+,{"nuts_id":"DEA2B","nuts_name":"Rheinisch-Bergischer Kreis","net_migr0111_pc":"2.1"}
+,{"nuts_id":"DEA2C","nuts_name":"Rhein-Sieg-Kreis","net_migr0111_pc":"4"}
+,{"nuts_id":"DEA2D","nuts_name":"Städteregion Aachen"}
+,{"nuts_id":"DEA31","nuts_name":"Bottrop, Kreisfreie Stadt","net_migr0111_pc":"0.5"}
+,{"nuts_id":"DEA32","nuts_name":"Gelsenkirchen, Kreisfreie Stadt","net_migr0111_pc":"-3"}
+,{"nuts_id":"DEA33","nuts_name":"Münster, Kreisfreie Stadt","net_migr0111_pc":"4.5"}
+,{"nuts_id":"DEA34","nuts_name":"Borken","net_migr0111_pc":"1.6"}
+,{"nuts_id":"DEA35","nuts_name":"Coesfeld","net_migr0111_pc":"2.3"}
+,{"nuts_id":"DEA36","nuts_name":"Recklinghausen","net_migr0111_pc":"-0.8"}
+,{"nuts_id":"DEA37","nuts_name":"Steinfurt","net_migr0111_pc":"1.9"}
+,{"nuts_id":"DEA38","nuts_name":"Warendorf","net_migr0111_pc":"-0.9"}
+,{"nuts_id":"DEA41","nuts_name":"Bielefeld, Kreisfreie Stadt","net_migr0111_pc":"1.5"}
+,{"nuts_id":"DEA42","nuts_name":"Gütersloh","net_migr0111_pc":"1.8"}
+,{"nuts_id":"DEA43","nuts_name":"Herford","net_migr0111_pc":"0"}
+,{"nuts_id":"DEA44","nuts_name":"Höxter","net_migr0111_pc":"-3.6"}
+,{"nuts_id":"DEA45","nuts_name":"Lippe","net_migr0111_pc":"-2"}
+,{"nuts_id":"DEA46","nuts_name":"Minden-Lübbecke","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"DEA47","nuts_name":"Paderborn","net_migr0111_pc":"1.5"}
+,{"nuts_id":"DEA51","nuts_name":"Bochum, Kreisfreie Stadt","net_migr0111_pc":"-0.3"}
+,{"nuts_id":"DEA52","nuts_name":"Dortmund, Kreisfreie Stadt","net_migr0111_pc":"1.6"}
+,{"nuts_id":"DEA53","nuts_name":"Hagen, Kreisfreie Stadt","net_migr0111_pc":"-3.9"}
+,{"nuts_id":"DEA54","nuts_name":"Hamm, Kreisfreie Stadt","net_migr0111_pc":"1.3"}
+,{"nuts_id":"DEA55","nuts_name":"Herne, Kreisfreie Stadt","net_migr0111_pc":"-1.2"}
+,{"nuts_id":"DEA56","nuts_name":"Ennepe-Ruhr-Kreis","net_migr0111_pc":"-1.1"}
+,{"nuts_id":"DEA57","nuts_name":"Hochsauerlandkreis","net_migr0111_pc":"-3.2"}
+,{"nuts_id":"DEA58","nuts_name":"Märkischer Kreis","net_migr0111_pc":"-3.8"}
+,{"nuts_id":"DEA59","nuts_name":"Olpe","net_migr0111_pc":"-1.2"}
+,{"nuts_id":"DEA5A","nuts_name":"Siegen-Wittgenstein","net_migr0111_pc":"-2.5"}
+,{"nuts_id":"DEA5B","nuts_name":"Soest","net_migr0111_pc":"1.2"}
+,{"nuts_id":"DEA5C","nuts_name":"Unna","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"DEB11","nuts_name":"Koblenz, Kreisfreie Stadt","net_migr0111_pc":"1.7"}
+,{"nuts_id":"DEB12","nuts_name":"Ahrweiler","net_migr0111_pc":"2.6"}
+,{"nuts_id":"DEB13","nuts_name":"Altenkirchen (Westerwald)","net_migr0111_pc":"-1"}
+,{"nuts_id":"DEB14","nuts_name":"Bad Kreuznach","net_migr0111_pc":"1.9"}
+,{"nuts_id":"DEB15","nuts_name":"Birkenfeld","net_migr0111_pc":"-3.5"}
+,{"nuts_id":"DEB16","nuts_name":"Cochem-Zell","net_migr0111_pc":"0.4"}
+,{"nuts_id":"DEB17","nuts_name":"Mayen-Koblenz","net_migr0111_pc":"2.2"}
+,{"nuts_id":"DEB18","nuts_name":"Neuwied","net_migr0111_pc":"0.8"}
+,{"nuts_id":"DEB19","nuts_name":"Rhein-Hunsrück-Kreis","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"DEB1A","nuts_name":"Rhein-Lahn-Kreis","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"DEB1B","nuts_name":"Westerwaldkreis","net_migr0111_pc":"0.3"}
+,{"nuts_id":"DEB21","nuts_name":"Trier, Kreisfreie Stadt","net_migr0111_pc":"7.4"}
+,{"nuts_id":"DEB22","nuts_name":"Bernkastel-Wittlich","net_migr0111_pc":"0.2"}
+,{"nuts_id":"DEB23","nuts_name":"Bitburg-Prüm","net_migr0111_pc":"0.2"}
+,{"nuts_id":"DEB24","nuts_name":"Vulkaneifel","net_migr0111_pc":"-1"}
+,{"nuts_id":"DEB25","nuts_name":"Trier-Saarburg","net_migr0111_pc":"4.6"}
+,{"nuts_id":"DEB31","nuts_name":"Frankenthal (Pfalz), Kreisfreie Stadt","net_migr0111_pc":"0.6"}
+,{"nuts_id":"DEB32","nuts_name":"Kaiserslautern, Kreisfreie Stadt","net_migr0111_pc":"2.6"}
+,{"nuts_id":"DEB33","nuts_name":"Landau in der Pfalz, Kreisfreie Stadt","net_migr0111_pc":"7.8"}
+,{"nuts_id":"DEB34","nuts_name":"Ludwigshafen am Rhein, Kreisfreie Stadt","net_migr0111_pc":"2.1"}
+,{"nuts_id":"DEB35","nuts_name":"Mainz, Kreisfreie Stadt","net_migr0111_pc":"8.6"}
+,{"nuts_id":"DEB36","nuts_name":"Neustadt an der Weinstraße, Kreisfreie Stadt","net_migr0111_pc":"0.8"}
+,{"nuts_id":"DEB37","nuts_name":"Pirmasens, Kreisfreie Stadt","net_migr0111_pc":"-3.4"}
+,{"nuts_id":"DEB38","nuts_name":"Speyer, Kreisfreie Stadt","net_migr0111_pc":"2.7"}
+,{"nuts_id":"DEB39","nuts_name":"Worms, Kreisfreie Stadt","net_migr0111_pc":"3.3"}
+,{"nuts_id":"DEB3A","nuts_name":"Zweibrücken, Kreisfreie Stadt","net_migr0111_pc":"-1.2"}
+,{"nuts_id":"DEB3B","nuts_name":"Alzey-Worms","net_migr0111_pc":"1.3"}
+,{"nuts_id":"DEB3C","nuts_name":"Bad Dürkheim","net_migr0111_pc":"2.8"}
+,{"nuts_id":"DEB3D","nuts_name":"Donnersbergkreis","net_migr0111_pc":"-1.1"}
+,{"nuts_id":"DEB3E","nuts_name":"Germersheim","net_migr0111_pc":"1.4"}
+,{"nuts_id":"DEB3F","nuts_name":"Kaiserslautern, Landkreis","net_migr0111_pc":"-1.4"}
+,{"nuts_id":"DEB3G","nuts_name":"Kusel","net_migr0111_pc":"-3.3"}
+,{"nuts_id":"DEB3H","nuts_name":"Südliche Weinstraße","net_migr0111_pc":"2.1"}
+,{"nuts_id":"DEB3I","nuts_name":"Rhein-Pfalz-Kreis","net_migr0111_pc":"3.5"}
+,{"nuts_id":"DEB3J","nuts_name":"Mainz-Bingen","net_migr0111_pc":"4.2"}
+,{"nuts_id":"DEB3K","nuts_name":"Südwestpfalz","net_migr0111_pc":"-2.4"}
+,{"nuts_id":"DEC01","nuts_name":"Stadtverband Saarbrücken","net_migr0111_pc":"-0.5"}
+,{"nuts_id":"DEC02","nuts_name":"Merzig-Wadern","net_migr0111_pc":"3"}
+,{"nuts_id":"DEC03","nuts_name":"Neunkirchen","net_migr0111_pc":"-1.6"}
+,{"nuts_id":"DEC04","nuts_name":"Saarlouis","net_migr0111_pc":"0.2"}
+,{"nuts_id":"DEC05","nuts_name":"Saarpfalz-Kreis","net_migr0111_pc":"-0.7"}
+,{"nuts_id":"DEC06","nuts_name":"St. Wendel","net_migr0111_pc":"-0.5"}
+,{"nuts_id":"DED21","nuts_name":"Dresden, Kreisfreie Stadt","net_migr0111_pc":"9.2"}
+,{"nuts_id":"DED2C","nuts_name":"Bautzen"}
+,{"nuts_id":"DED2D","nuts_name":"Görlitz"}
+,{"nuts_id":"DED2E","nuts_name":"Meißen"}
+,{"nuts_id":"DED2F","nuts_name":"Sächsische Schweiz-Osterzgebirge"}
+,{"nuts_id":"DED41","nuts_name":"Chemnitz, Kreisfreie Stadt","net_migr0111_pc":"-1.5"}
+,{"nuts_id":"DED42","nuts_name":"Erzgebirgskreis"}
+,{"nuts_id":"DED43","nuts_name":"Mittelsachsen"}
+,{"nuts_id":"DED44","nuts_name":"Vogtlandkreis"}
+,{"nuts_id":"DED45","nuts_name":"Zwickau"}
+,{"nuts_id":"DED51","nuts_name":"Leipzig, Kreisfreie Stadt","net_migr0111_pc":"8"}
+,{"nuts_id":"DED52","nuts_name":"Leipzig"}
+,{"nuts_id":"DED53","nuts_name":"Nordhausen"}
+,{"nuts_id":"DEE01","nuts_name":"Dessau-Roßlau, Kreisfreie Stadt","net_migr0111_pc":"-5.6"}
+,{"nuts_id":"DEE02","nuts_name":"Halle (Saale), Kreisfreie Stadt","net_migr0111_pc":"-3.2"}
+,{"nuts_id":"DEE03","nuts_name":"Magdeburg, Kreisfreie Stadt","net_migr0111_pc":"3.6"}
+,{"nuts_id":"DEE04","nuts_name":"Altmarkkreis Salzwedel","net_migr0111_pc":"-7.9"}
+,{"nuts_id":"DEE05","nuts_name":"Anhalt-Bitterfeld","net_migr0111_pc":"-3.5"}
+,{"nuts_id":"DEE06","nuts_name":"Jerichower Land","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"DEE07","nuts_name":"Börde","net_migr0111_pc":"-2.8"}
+,{"nuts_id":"DEE08","nuts_name":"Burgenland (D)","net_migr0111_pc":"-2.6"}
+,{"nuts_id":"DEE09","nuts_name":"Harz","net_migr0111_pc":"-2.7"}
+,{"nuts_id":"DEE0A","nuts_name":"Mansfeld-Südharz","net_migr0111_pc":"-4"}
+,{"nuts_id":"DEE0B","nuts_name":"Saalekreis","net_migr0111_pc":"-3"}
+,{"nuts_id":"DEE0C","nuts_name":"Salzland","net_migr0111_pc":"-3.2"}
+,{"nuts_id":"DEE0D","nuts_name":"Stendal","net_migr0111_pc":"-9.4"}
+,{"nuts_id":"DEE0E","nuts_name":"Wittenberg","net_migr0111_pc":"-3.1"}
+,{"nuts_id":"DEF01","nuts_name":"Flensburg, Kreisfreie Stadt","net_migr0111_pc":"7.4"}
+,{"nuts_id":"DEF02","nuts_name":"Kiel, Kreisfreie Stadt","net_migr0111_pc":"4.3"}
+,{"nuts_id":"DEF03","nuts_name":"Lübeck, Kreisfreie Stadt","net_migr0111_pc":"2.3"}
+,{"nuts_id":"DEF04","nuts_name":"Neumünster, Kreisfreie Stadt","net_migr0111_pc":"-0.7"}
+,{"nuts_id":"DEF05","nuts_name":"Dithmarschen","net_migr0111_pc":"1.6"}
+,{"nuts_id":"DEF06","nuts_name":"Herzogtum Lauenburg","net_migr0111_pc":"6.2"}
+,{"nuts_id":"DEF07","nuts_name":"Nordfriesland","net_migr0111_pc":"3.1"}
+,{"nuts_id":"DEF08","nuts_name":"Ostholstein","net_migr0111_pc":"5.8"}
+,{"nuts_id":"DEF09","nuts_name":"Pinneberg","net_migr0111_pc":"5.9"}
+,{"nuts_id":"DEF0A","nuts_name":"Plön","net_migr0111_pc":"4.1"}
+,{"nuts_id":"DEF0B","nuts_name":"Rendsburg-Eckernförde","net_migr0111_pc":"2"}
+,{"nuts_id":"DEF0C","nuts_name":"Schleswig-Flensburg","net_migr0111_pc":"2.7"}
+,{"nuts_id":"DEF0D","nuts_name":"Segeberg","net_migr0111_pc":"4.4"}
+,{"nuts_id":"DEF0E","nuts_name":"Steinburg","net_migr0111_pc":"0.8"}
+,{"nuts_id":"DEF0F","nuts_name":"Stormarn","net_migr0111_pc":"7.5"}
+,{"nuts_id":"DEG01","nuts_name":"Erfurt, Kreisfreie Stadt","net_migr0111_pc":"3.5"}
+,{"nuts_id":"DEG02","nuts_name":"Gera, Kreisfreie Stadt","net_migr0111_pc":"-7.7"}
+,{"nuts_id":"DEG03","nuts_name":"Jena, Kreisfreie Stadt","net_migr0111_pc":"4.7"}
+,{"nuts_id":"DEG04","nuts_name":"Suhl, Kreisfreie Stadt","net_migr0111_pc":"-14.7"}
+,{"nuts_id":"DEG05","nuts_name":"Weimar, Kreisfreie Stadt","net_migr0111_pc":"5.9"}
+,{"nuts_id":"DEG06","nuts_name":"Eichsfeld","net_migr0111_pc":"-6.8"}
+,{"nuts_id":"DEG07","nuts_name":"Nordhausen","net_migr0111_pc":"-4.5"}
+,{"nuts_id":"DEG09","nuts_name":"Unstrut-Hainich-Kreis","net_migr0111_pc":"-5.4"}
+,{"nuts_id":"DEG0A","nuts_name":"Kyffhäuserkreis","net_migr0111_pc":"-8.7"}
+,{"nuts_id":"DEG0B","nuts_name":"Schmalkalden-Meiningen","net_migr0111_pc":"-5.2"}
+,{"nuts_id":"DEG0C","nuts_name":"Gotha","net_migr0111_pc":"-3.3"}
+,{"nuts_id":"DEG0D","nuts_name":"Sömmerda","net_migr0111_pc":"-7.3"}
+,{"nuts_id":"DEG0E","nuts_name":"Hildburghausen","net_migr0111_pc":"-5.5"}
+,{"nuts_id":"DEG0F","nuts_name":"Ilm-Kreis","net_migr0111_pc":"-3.7"}
+,{"nuts_id":"DEG0G","nuts_name":"Weimarer Land","net_migr0111_pc":"-4.9"}
+,{"nuts_id":"DEG0H","nuts_name":"Sonneberg","net_migr0111_pc":"-6"}
+,{"nuts_id":"DEG0I","nuts_name":"Saalfeld-Rudolstadt","net_migr0111_pc":"-7"}
+,{"nuts_id":"DEG0J","nuts_name":"Saale-Holzland-Kreis","net_migr0111_pc":"-4.9"}
+,{"nuts_id":"DEG0K","nuts_name":"Saale-Orla-Kreis","net_migr0111_pc":"-6.3"}
+,{"nuts_id":"DEG0L","nuts_name":"Greiz","net_migr0111_pc":"-7.8"}
+,{"nuts_id":"DEG0M","nuts_name":"Altenburger Land","net_migr0111_pc":"-8.4"}
+,{"nuts_id":"DEG0N","nuts_name":"Eisenach, Kreisfreie Stadt","net_migr0111_pc":"1.1"}
+,{"nuts_id":"DEG0P","nuts_name":"Wartburgkreis","net_migr0111_pc":"-6.2"}
+,{"nuts_id":"EE001","nuts_name":"Põhja-Eesti","net_migr0111_pc":"0"}
+,{"nuts_id":"EE004","nuts_name":"Lääne-Eesti","net_migr0111_pc":"0.1"}
+,{"nuts_id":"EE006","nuts_name":"Kesk-Eesti","net_migr0111_pc":"0.2"}
+,{"nuts_id":"EE007","nuts_name":"Kirde-Eesti","net_migr0111_pc":"0.1"}
+,{"nuts_id":"EE008","nuts_name":"Lõuna-Eesti","net_migr0111_pc":"0.1"}
+,{"nuts_id":"IE011","nuts_name":"Border","net_migr0111_pc":"10.8"}
+,{"nuts_id":"IE012","nuts_name":"Midland","net_migr0111_pc":"14.1"}
+,{"nuts_id":"IE013","nuts_name":"West","net_migr0111_pc":"9.5"}
+,{"nuts_id":"IE021","nuts_name":"Dublin","net_migr0111_pc":"-1.6"}
+,{"nuts_id":"IE022","nuts_name":"Mid-East","net_migr0111_pc":"18.9"}
+,{"nuts_id":"IE023","nuts_name":"Mid-West","net_migr0111_pc":"3.3"}
+,{"nuts_id":"IE024","nuts_name":"South-East (IE)","net_migr0111_pc":"12.1"}
+,{"nuts_id":"IE025","nuts_name":"South-West (IE)","net_migr0111_pc":"5.4"}
+,{"nuts_id":"EL111","nuts_name":"Evros","net_migr0111_pc":"1.1"}
+,{"nuts_id":"EL112","nuts_name":"Xanthi","net_migr0111_pc":"0.4"}
+,{"nuts_id":"EL113","nuts_name":"Rodopi","net_migr0111_pc":"0.5"}
+,{"nuts_id":"EL114","nuts_name":"Drama","net_migr0111_pc":"0"}
+,{"nuts_id":"EL115","nuts_name":"Kavala","net_migr0111_pc":"0.5"}
+,{"nuts_id":"EL121","nuts_name":"Imathia","net_migr0111_pc":"0.5"}
+,{"nuts_id":"EL122","nuts_name":"Thessaloniki","net_migr0111_pc":"5.2"}
+,{"nuts_id":"EL123","nuts_name":"Kilkis","net_migr0111_pc":"-4.7"}
+,{"nuts_id":"EL124","nuts_name":"Pella","net_migr0111_pc":"1.2"}
+,{"nuts_id":"EL125","nuts_name":"Pieria","net_migr0111_pc":"1"}
+,{"nuts_id":"EL126","nuts_name":"Serres","net_migr0111_pc":"0.4"}
+,{"nuts_id":"EL127","nuts_name":"Chalkidiki","net_migr0111_pc":"2.3"}
+,{"nuts_id":"EL131","nuts_name":"Grevena","net_migr0111_pc":"0.5"}
+,{"nuts_id":"EL132","nuts_name":"Kastoria","net_migr0111_pc":"0.6"}
+,{"nuts_id":"EL133","nuts_name":"Kozani","net_migr0111_pc":"0.4"}
+,{"nuts_id":"EL134","nuts_name":"Florina","net_migr0111_pc":"1"}
+,{"nuts_id":"EL141","nuts_name":"Karditsa","net_migr0111_pc":"-0.1"}
+,{"nuts_id":"EL142","nuts_name":"Larisa","net_migr0111_pc":"0.4"}
+,{"nuts_id":"EL143","nuts_name":"Magnisia","net_migr0111_pc":"0"}
+,{"nuts_id":"EL144","nuts_name":"Trikala","net_migr0111_pc":"0.8"}
+,{"nuts_id":"EL211","nuts_name":"Arta","net_migr0111_pc":"0.1"}
+,{"nuts_id":"EL212","nuts_name":"Thesprotia","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"EL213","nuts_name":"Ioannina","net_migr0111_pc":"17.4"}
+,{"nuts_id":"EL214","nuts_name":"Preveza","net_migr0111_pc":"0.7"}
+,{"nuts_id":"EL221","nuts_name":"Zakynthos","net_migr0111_pc":"3.1"}
+,{"nuts_id":"EL222","nuts_name":"Kerkyra","net_migr0111_pc":"22.5"}
+,{"nuts_id":"EL223","nuts_name":"Kefallinia","net_migr0111_pc":"2"}
+,{"nuts_id":"EL224","nuts_name":"Lefkada","net_migr0111_pc":"4"}
+,{"nuts_id":"EL231","nuts_name":"Aitoloakarnania","net_migr0111_pc":"0.3"}
+,{"nuts_id":"EL232","nuts_name":"Achaia","net_migr0111_pc":"8.7"}
+,{"nuts_id":"EL233","nuts_name":"Ileia","net_migr0111_pc":"0.7"}
+,{"nuts_id":"EL241","nuts_name":"Voiotia","net_migr0111_pc":"1.6"}
+,{"nuts_id":"EL242","nuts_name":"Evvoia","net_migr0111_pc":"0.7"}
+,{"nuts_id":"EL243","nuts_name":"Evrytania","net_migr0111_pc":"5"}
+,{"nuts_id":"EL244","nuts_name":"Fthiotida","net_migr0111_pc":"0.3"}
+,{"nuts_id":"EL245","nuts_name":"Fokida","net_migr0111_pc":"6.3"}
+,{"nuts_id":"EL251","nuts_name":"Argolida","net_migr0111_pc":"0.9"}
+,{"nuts_id":"EL252","nuts_name":"Arkadia","net_migr0111_pc":"0.8"}
+,{"nuts_id":"EL253","nuts_name":"Korinthia","net_migr0111_pc":"1.8"}
+,{"nuts_id":"EL254","nuts_name":"Lakonia","net_migr0111_pc":"2.6"}
+,{"nuts_id":"EL255","nuts_name":"Messinia","net_migr0111_pc":"1.4"}
+,{"nuts_id":"EL300","nuts_name":"Attiki","net_migr0111_pc":"4.3"}
+,{"nuts_id":"EL411","nuts_name":"Lesvos","net_migr0111_pc":"0.6"}
+,{"nuts_id":"EL412","nuts_name":"Samos","net_migr0111_pc":"0.9"}
+,{"nuts_id":"EL413","nuts_name":"Chios","net_migr0111_pc":"0.3"}
+,{"nuts_id":"EL421","nuts_name":"Dodekanisos","net_migr0111_pc":"0.6"}
+,{"nuts_id":"EL422","nuts_name":"Kyklades","net_migr0111_pc":"1.5"}
+,{"nuts_id":"EL431","nuts_name":"Irakleio","net_migr0111_pc":"0.3"}
+,{"nuts_id":"EL432","nuts_name":"Lasithi","net_migr0111_pc":"0.2"}
+,{"nuts_id":"EL433","nuts_name":"Rethymni","net_migr0111_pc":"0.1"}
+,{"nuts_id":"EL434","nuts_name":"Chania","net_migr0111_pc":"1.2"}
+,{"nuts_id":"ES111","nuts_name":"A Coruña","net_migr0111_pc":"5.3"}
+,{"nuts_id":"ES112","nuts_name":"Lugo","net_migr0111_pc":"2.3"}
+,{"nuts_id":"ES113","nuts_name":"Ourense","net_migr0111_pc":"3"}
+,{"nuts_id":"ES114","nuts_name":"Pontevedra","net_migr0111_pc":"5.1"}
+,{"nuts_id":"ES120","nuts_name":"Asturias","net_migr0111_pc":"4.1"}
+,{"nuts_id":"ES130","nuts_name":"Cantabria","net_migr0111_pc":"9.1"}
+,{"nuts_id":"ES211","nuts_name":"Álava","net_migr0111_pc":"8.1"}
+,{"nuts_id":"ES212","nuts_name":"Guipúzcoa","net_migr0111_pc":"1.8"}
+,{"nuts_id":"ES213","nuts_name":"Vizcaya","net_migr0111_pc":"1.8"}
+,{"nuts_id":"ES220","nuts_name":"Navarra","net_migr0111_pc":"10.3"}
+,{"nuts_id":"ES230","nuts_name":"La Rioja","net_migr0111_pc":"14.3"}
+,{"nuts_id":"ES241","nuts_name":"Huesca","net_migr0111_pc":"10.3"}
+,{"nuts_id":"ES242","nuts_name":"Teruel","net_migr0111_pc":"9.2"}
+,{"nuts_id":"ES243","nuts_name":"Zaragoza","net_migr0111_pc":"11.1"}
+,{"nuts_id":"ES300","nuts_name":"Madrid","net_migr0111_pc":"14.7"}
+,{"nuts_id":"ES411","nuts_name":"Ávila","net_migr0111_pc":"6.8"}
+,{"nuts_id":"ES412","nuts_name":"Burgos","net_migr0111_pc":"5.1"}
+,{"nuts_id":"ES413","nuts_name":"León","net_migr0111_pc":"2.5"}
+,{"nuts_id":"ES414","nuts_name":"Palencia","net_migr0111_pc":"0.6"}
+,{"nuts_id":"ES415","nuts_name":"Salamanca","net_migr0111_pc":"2.7"}
+,{"nuts_id":"ES416","nuts_name":"Segovia","net_migr0111_pc":"10"}
+,{"nuts_id":"ES417","nuts_name":"Soria","net_migr0111_pc":"6.3"}
+,{"nuts_id":"ES418","nuts_name":"Valladolid","net_migr0111_pc":"5.8"}
+,{"nuts_id":"ES419","nuts_name":"Zamora","net_migr0111_pc":"2.1"}
+,{"nuts_id":"ES421","nuts_name":"Albacete","net_migr0111_pc":"8.3"}
+,{"nuts_id":"ES422","nuts_name":"Ciudad Real","net_migr0111_pc":"9.1"}
+,{"nuts_id":"ES423","nuts_name":"Cuenca","net_migr0111_pc":"9.8"}
+,{"nuts_id":"ES424","nuts_name":"Guadalajara","net_migr0111_pc":"38.8"}
+,{"nuts_id":"ES425","nuts_name":"Toledo","net_migr0111_pc":"23"}
+,{"nuts_id":"ES431","nuts_name":"Badajoz","net_migr0111_pc":"3.3"}
+,{"nuts_id":"ES432","nuts_name":"Cáceres","net_migr0111_pc":"1.8"}
+,{"nuts_id":"ES511","nuts_name":"Barcelona","net_migr0111_pc":"9.5"}
+,{"nuts_id":"ES512","nuts_name":"Girona","net_migr0111_pc":"26.4"}
+,{"nuts_id":"ES513","nuts_name":"Lleida","net_migr0111_pc":"19.6"}
+,{"nuts_id":"ES514","nuts_name":"Tarragona","net_migr0111_pc":"28.6"}
+,{"nuts_id":"ES521","nuts_name":"Alicante / Alacant","net_migr0111_pc":"29.9"}
+,{"nuts_id":"ES522","nuts_name":"Castellón / Castelló","net_migr0111_pc":"21.7"}
+,{"nuts_id":"ES523","nuts_name":"Valencia / València","net_migr0111_pc":"13.1"}
+,{"nuts_id":"ES531","nuts_name":"Eivissa y Formentera","net_migr0111_pc":"18.1"}
+,{"nuts_id":"ES532","nuts_name":"Mallorca","net_migr0111_pc":"9.9"}
+,{"nuts_id":"ES533","nuts_name":"Menorca","net_migr0111_pc":"7.4"}
+,{"nuts_id":"ES611","nuts_name":"Almería","net_migr0111_pc":"24.5"}
+,{"nuts_id":"ES612","nuts_name":"Cádiz","net_migr0111_pc":"5.3"}
+,{"nuts_id":"ES613","nuts_name":"Córdoba","net_migr0111_pc":"2.1"}
+,{"nuts_id":"ES614","nuts_name":"Granada","net_migr0111_pc":"8.8"}
+,{"nuts_id":"ES615","nuts_name":"Huelva","net_migr0111_pc":"7.9"}
+,{"nuts_id":"ES616","nuts_name":"Jaén","net_migr0111_pc":"0.7"}
+,{"nuts_id":"ES617","nuts_name":"Málaga","net_migr0111_pc":"21.1"}
+,{"nuts_id":"ES618","nuts_name":"Sevilla","net_migr0111_pc":"4.8"}
+,{"nuts_id":"ES620","nuts_name":"Murcia","net_migr0111_pc":"18.5"}
+,{"nuts_id":"ES630","nuts_name":"Ceuta","net_migr0111_pc":"-2.4"}
+,{"nuts_id":"ES640","nuts_name":"Melilla","net_migr0111_pc":"1.1"}
+,{"nuts_id":"ES703","nuts_name":"El Hierro","net_migr0111_pc":"6.7"}
+,{"nuts_id":"ES704","nuts_name":"Fuerteventura","net_migr0111_pc":"15.3"}
+,{"nuts_id":"ES705","nuts_name":"Gran Canaria","net_migr0111_pc":"5.1"}
+,{"nuts_id":"ES706","nuts_name":"La Gomera","net_migr0111_pc":"8.6"}
+,{"nuts_id":"ES707","nuts_name":"La Palma","net_migr0111_pc":"4.2"}
+,{"nuts_id":"ES708","nuts_name":"Lanzarote","net_migr0111_pc":"12.4"}
+,{"nuts_id":"ES709","nuts_name":"Tenerife","net_migr0111_pc":"9.3"}
+,{"nuts_id":"FR101","nuts_name":"Paris","net_migr0111_pc":"-2.4"}
+,{"nuts_id":"FR102","nuts_name":"Seine-et-Marne","net_migr0111_pc":"1.7"}
+,{"nuts_id":"FR103","nuts_name":"Yvelines","net_migr0111_pc":"-4.7"}
+,{"nuts_id":"FR104","nuts_name":"Essonne","net_migr0111_pc":"-2.7"}
+,{"nuts_id":"FR105","nuts_name":"Hauts-de-Seine","net_migr0111_pc":"-1.8"}
+,{"nuts_id":"FR106","nuts_name":"Seine-Saint-Denis","net_migr0111_pc":"-4.4"}
+,{"nuts_id":"FR107","nuts_name":"Val-de-Marne","net_migr0111_pc":"-2.5"}
+,{"nuts_id":"FR108","nuts_name":"Val-d'Oise","net_migr0111_pc":"-4.5"}
+,{"nuts_id":"FR211","nuts_name":"Ardennes","net_migr0111_pc":"-4.5"}
+,{"nuts_id":"FR212","nuts_name":"Aube","net_migr0111_pc":"0.8"}
+,{"nuts_id":"FR213","nuts_name":"Marne","net_migr0111_pc":"-3.8"}
+,{"nuts_id":"FR214","nuts_name":"Haute-Marne","net_migr0111_pc":"-5.8"}
+,{"nuts_id":"FR221","nuts_name":"Aisne","net_migr0111_pc":"-2.1"}
+,{"nuts_id":"FR222","nuts_name":"Oise","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"FR223","nuts_name":"Somme","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"FR231","nuts_name":"Eure","net_migr0111_pc":"2.6"}
+,{"nuts_id":"FR232","nuts_name":"Seine-Maritime","net_migr0111_pc":"-3.1"}
+,{"nuts_id":"FR241","nuts_name":"Cher","net_migr0111_pc":"0.1"}
+,{"nuts_id":"FR242","nuts_name":"Eure-et-Loir","net_migr0111_pc":"0.3"}
+,{"nuts_id":"FR243","nuts_name":"Indre","net_migr0111_pc":"2.2"}
+,{"nuts_id":"FR244","nuts_name":"Indre-et-Loire","net_migr0111_pc":"2.8"}
+,{"nuts_id":"FR245","nuts_name":"Loir-et-Cher","net_migr0111_pc":"3.6"}
+,{"nuts_id":"FR246","nuts_name":"Loiret","net_migr0111_pc":"0.7"}
+,{"nuts_id":"FR251","nuts_name":"Calvados","net_migr0111_pc":"0.8"}
+,{"nuts_id":"FR252","nuts_name":"Manche","net_migr0111_pc":"2.1"}
+,{"nuts_id":"FR253","nuts_name":"Orne","net_migr0111_pc":"-1.5"}
+,{"nuts_id":"FR261","nuts_name":"Côte-d'Or","net_migr0111_pc":"0.1"}
+,{"nuts_id":"FR262","nuts_name":"Nièvre","net_migr0111_pc":"0.9"}
+,{"nuts_id":"FR263","nuts_name":"Saône-et-Loire","net_migr0111_pc":"2"}
+,{"nuts_id":"FR264","nuts_name":"Yonne","net_migr0111_pc":"2.4"}
+,{"nuts_id":"FR301","nuts_name":"Nord","net_migr0111_pc":"-4.7"}
+,{"nuts_id":"FR302","nuts_name":"Pas-de-Calais","net_migr0111_pc":"-2.6"}
+,{"nuts_id":"FR411","nuts_name":"Meurthe-et-Moselle","net_migr0111_pc":"-1.1"}
+,{"nuts_id":"FR412","nuts_name":"Meuse","net_migr0111_pc":"-1.1"}
+,{"nuts_id":"FR413","nuts_name":"Moselle","net_migr0111_pc":"-1.3"}
+,{"nuts_id":"FR414","nuts_name":"Vosges","net_migr0111_pc":"-1.6"}
+,{"nuts_id":"FR421","nuts_name":"Bas-Rhin","net_migr0111_pc":"0.8"}
+,{"nuts_id":"FR422","nuts_name":"Haut-Rhin","net_migr0111_pc":"0.7"}
+,{"nuts_id":"FR431","nuts_name":"Doubs","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"FR432","nuts_name":"Jura","net_migr0111_pc":"1.5"}
+,{"nuts_id":"FR433","nuts_name":"Haute-Saône","net_migr0111_pc":"1.4"}
+,{"nuts_id":"FR434","nuts_name":"Territoire de Belfort","net_migr0111_pc":"-1.1"}
+,{"nuts_id":"FR511","nuts_name":"Loire-Atlantique","net_migr0111_pc":"5.8"}
+,{"nuts_id":"FR512","nuts_name":"Maine-et-Loire","net_migr0111_pc":"1.2"}
+,{"nuts_id":"FR513","nuts_name":"Mayenne","net_migr0111_pc":"1.7"}
+,{"nuts_id":"FR514","nuts_name":"Sarthe","net_migr0111_pc":"2"}
+,{"nuts_id":"FR515","nuts_name":"Vendée","net_migr0111_pc":"12.6"}
+,{"nuts_id":"FR521","nuts_name":"Côtes-d'Armor","net_migr0111_pc":"8.3"}
+,{"nuts_id":"FR522","nuts_name":"Finistère","net_migr0111_pc":"4.1"}
+,{"nuts_id":"FR523","nuts_name":"Ille-et-Vilaine","net_migr0111_pc":"6.2"}
+,{"nuts_id":"FR524","nuts_name":"Morbihan","net_migr0111_pc":"9.2"}
+,{"nuts_id":"FR531","nuts_name":"Charente","net_migr0111_pc":"3.7"}
+,{"nuts_id":"FR532","nuts_name":"Charente-Maritime","net_migr0111_pc":"11.1"}
+,{"nuts_id":"FR533","nuts_name":"Deux-Sèvres","net_migr0111_pc":"4.8"}
+,{"nuts_id":"FR534","nuts_name":"Vienne","net_migr0111_pc":"3.9"}
+,{"nuts_id":"FR611","nuts_name":"Dordogne","net_migr0111_pc":"9.3"}
+,{"nuts_id":"FR612","nuts_name":"Gironde","net_migr0111_pc":"7.7"}
+,{"nuts_id":"FR613","nuts_name":"Landes","net_migr0111_pc":"15.3"}
+,{"nuts_id":"FR614","nuts_name":"Lot-et-Garonne","net_migr0111_pc":"7.3"}
+,{"nuts_id":"FR615","nuts_name":"Pyrénées-Atlantiques","net_migr0111_pc":"7.6"}
+,{"nuts_id":"FR621","nuts_name":"Ariège","net_migr0111_pc":"11.7"}
+,{"nuts_id":"FR622","nuts_name":"Aveyron","net_migr0111_pc":"5.6"}
+,{"nuts_id":"FR623","nuts_name":"Haute-Garonne","net_migr0111_pc":"10.3"}
+,{"nuts_id":"FR624","nuts_name":"Gers","net_migr0111_pc":"11"}
+,{"nuts_id":"FR625","nuts_name":"Lot","net_migr0111_pc":"10.4"}
+,{"nuts_id":"FR626","nuts_name":"Hautes-Pyrénées","net_migr0111_pc":"4.4"}
+,{"nuts_id":"FR627","nuts_name":"Tarn","net_migr0111_pc":"8.4"}
+,{"nuts_id":"FR628","nuts_name":"Tarn-et-Garonne","net_migr0111_pc":"13.6"}
+,{"nuts_id":"FR631","nuts_name":"Corrèze","net_migr0111_pc":"6.5"}
+,{"nuts_id":"FR632","nuts_name":"Creuse","net_migr0111_pc":"6.3"}
+,{"nuts_id":"FR633","nuts_name":"Haute-Vienne","net_migr0111_pc":"6"}
+,{"nuts_id":"FR711","nuts_name":"Ain","net_migr0111_pc":"8.8"}
+,{"nuts_id":"FR712","nuts_name":"Ardèche","net_migr0111_pc":"8.2"}
+,{"nuts_id":"FR713","nuts_name":"Drôme","net_migr0111_pc":"5.6"}
+,{"nuts_id":"FR714","nuts_name":"Isère","net_migr0111_pc":"2.4"}
+,{"nuts_id":"FR715","nuts_name":"Loire","net_migr0111_pc":"-0.5"}
+,{"nuts_id":"FR716","nuts_name":"Rhône","net_migr0111_pc":"1"}
+,{"nuts_id":"FR717","nuts_name":"Savoie","net_migr0111_pc":"5.6"}
+,{"nuts_id":"FR718","nuts_name":"Haute-Savoie","net_migr0111_pc":"8.1"}
+,{"nuts_id":"FR721","nuts_name":"Allier","net_migr0111_pc":"2.2"}
+,{"nuts_id":"FR722","nuts_name":"Cantal","net_migr0111_pc":"1.5"}
+,{"nuts_id":"FR723","nuts_name":"Haute-Loire","net_migr0111_pc":"6.1"}
+,{"nuts_id":"FR724","nuts_name":"Puy-de-Dôme","net_migr0111_pc":"3"}
+,{"nuts_id":"FR811","nuts_name":"Aude","net_migr0111_pc":"13.9"}
+,{"nuts_id":"FR812","nuts_name":"Gard","net_migr0111_pc":"9.8"}
+,{"nuts_id":"FR813","nuts_name":"Hérault","net_migr0111_pc":"11.6"}
+,{"nuts_id":"FR814","nuts_name":"Lozère","net_migr0111_pc":"6"}
+,{"nuts_id":"FR815","nuts_name":"Pyrénées-Orientales","net_migr0111_pc":"12.9"}
+,{"nuts_id":"FR821","nuts_name":"Alpes-de-Haute-Provence","net_migr0111_pc":"12.4"}
+,{"nuts_id":"FR822","nuts_name":"Hautes-Alpes","net_migr0111_pc":"9.9"}
+,{"nuts_id":"FR823","nuts_name":"Alpes-Maritimes","net_migr0111_pc":"4.8"}
+,{"nuts_id":"FR824","nuts_name":"Bouches-du-Rhône","net_migr0111_pc":"1.6"}
+,{"nuts_id":"FR825","nuts_name":"Var","net_migr0111_pc":"9.1"}
+,{"nuts_id":"FR826","nuts_name":"Vaucluse","net_migr0111_pc":"3.7"}
+,{"nuts_id":"FR831","nuts_name":"Corse-du-Sud","net_migr0111_pc":"18.1"}
+,{"nuts_id":"FR832","nuts_name":"Haute-Corse","net_migr0111_pc":"15.2"}
+,{"nuts_id":"FR910","nuts_name":"Guadeloupe","net_migr0111_pc":"-4.3"}
+,{"nuts_id":"FR920","nuts_name":"Martinique","net_migr0111_pc":"-4.9"}
+,{"nuts_id":"FR930","nuts_name":"Guyane","net_migr0111_pc":"9.6"}
+,{"nuts_id":"FR940","nuts_name":"Réunion","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"HR031","nuts_name":"Primorsko-goranska županija","net_migr0111_pc":"2.3"}
+,{"nuts_id":"HR032","nuts_name":"Ličko-senjska županija","net_migr0111_pc":"-1.8"}
+,{"nuts_id":"HR033","nuts_name":"Zadarska županija","net_migr0111_pc":"8.3"}
+,{"nuts_id":"HR034","nuts_name":"Šibensko-kninska županija","net_migr0111_pc":"3.1"}
+,{"nuts_id":"HR035","nuts_name":"Splitsko-dalmatinska županija","net_migr0111_pc":"2.6"}
+,{"nuts_id":"HR036","nuts_name":"Istarska županija","net_migr0111_pc":"5.5"}
+,{"nuts_id":"HR037","nuts_name":"Dubrovačko-neretvanska županija","net_migr0111_pc":"3.1"}
+,{"nuts_id":"HR041","nuts_name":"Grad Zagreb","net_migr0111_pc":"2.3"}
+,{"nuts_id":"HR042","nuts_name":"Zagrebačka županija","net_migr0111_pc":"6.6"}
+,{"nuts_id":"HR043","nuts_name":"Krapinsko-zagorska županija","net_migr0111_pc":"0"}
+,{"nuts_id":"HR044","nuts_name":"Varaždinska županija","net_migr0111_pc":"0.1"}
+,{"nuts_id":"HR045","nuts_name":"Koprivničko-križevačka županija","net_migr0111_pc":"-0.5"}
+,{"nuts_id":"HR046","nuts_name":"Međimurska županija","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"HR047","nuts_name":"Bjelovarsko-bilogorska županija","net_migr0111_pc":"-2.7"}
+,{"nuts_id":"HR048","nuts_name":"Virovitičko-podravska županija","net_migr0111_pc":"-3.8"}
+,{"nuts_id":"HR049","nuts_name":"Požeško-slavonska županija","net_migr0111_pc":"-3.8"}
+,{"nuts_id":"HR04A","nuts_name":"Brodsko-posavska županija","net_migr0111_pc":"-1.8"}
+,{"nuts_id":"HR04B","nuts_name":"Osječko-baranjska županija","net_migr0111_pc":"-1.3"}
+,{"nuts_id":"HR04C","nuts_name":"Vukovarsko-srijemska županija","net_migr0111_pc":"-3.3"}
+,{"nuts_id":"HR04D","nuts_name":"Karlovačka županija","net_migr0111_pc":"-1.9"}
+,{"nuts_id":"HR04E","nuts_name":"Sisačko-moslavačka županija","net_migr0111_pc":"-4"}
+,{"nuts_id":"ITC11","nuts_name":"Torino","net_migr0111_pc":"7.2"}
+,{"nuts_id":"ITC12","nuts_name":"Vercelli","net_migr0111_pc":"6.7"}
+,{"nuts_id":"ITC13","nuts_name":"Biella","net_migr0111_pc":"4.2"}
+,{"nuts_id":"ITC14","nuts_name":"Verbano-Cusio-Ossola","net_migr0111_pc":"6.4"}
+,{"nuts_id":"ITC15","nuts_name":"Novara","net_migr0111_pc":"10.5"}
+,{"nuts_id":"ITC16","nuts_name":"Cuneo","net_migr0111_pc":"9.1"}
+,{"nuts_id":"ITC17","nuts_name":"Asti","net_migr0111_pc":"11.4"}
+,{"nuts_id":"ITC18","nuts_name":"Alessandria","net_migr0111_pc":"12.3"}
+,{"nuts_id":"ITC20","nuts_name":"Valle d'Aosta/Vallée d'Aoste","net_migr0111_pc":"8.1"}
+,{"nuts_id":"ITC31","nuts_name":"Imperia","net_migr0111_pc":"14"}
+,{"nuts_id":"ITC32","nuts_name":"Savona","net_migr0111_pc":"12"}
+,{"nuts_id":"ITC33","nuts_name":"Genova","net_migr0111_pc":"6.1"}
+,{"nuts_id":"ITC34","nuts_name":"La Spezia","net_migr0111_pc":"9.3"}
+,{"nuts_id":"ITC41","nuts_name":"Varese","net_migr0111_pc":"8.7"}
+,{"nuts_id":"ITC42","nuts_name":"Como","net_migr0111_pc":"10.3"}
+,{"nuts_id":"ITC43","nuts_name":"Lecco","net_migr0111_pc":"8.8"}
+,{"nuts_id":"ITC44","nuts_name":"Sondrio","net_migr0111_pc":"4.2"}
+,{"nuts_id":"ITC46","nuts_name":"Bergamo","net_migr0111_pc":"10.8"}
+,{"nuts_id":"ITC47","nuts_name":"Brescia","net_migr0111_pc":"11.5"}
+,{"nuts_id":"ITC48","nuts_name":"Pavia","net_migr0111_pc":"15.8"}
+,{"nuts_id":"ITC49","nuts_name":"Lodi","net_migr0111_pc":"15.7"}
+,{"nuts_id":"ITC4A","nuts_name":"Cremona","net_migr0111_pc":"10.8"}
+,{"nuts_id":"ITC4B","nuts_name":"Mantova","net_migr0111_pc":"11.9"}
+,{"nuts_id":"ITC4C","nuts_name":"Milano","net_migr0111_pc":"10.3"}
+,{"nuts_id":"ITC4D","nuts_name":"Monza e della Brianza","net_migr0111_pc":"6.4"}
+,{"nuts_id":"ITF11","nuts_name":"L'Aquila","net_migr0111_pc":"7.2"}
+,{"nuts_id":"ITF12","nuts_name":"Teramo","net_migr0111_pc":"9.7"}
+,{"nuts_id":"ITF13","nuts_name":"Pescara","net_migr0111_pc":"10.8"}
+,{"nuts_id":"ITF14","nuts_name":"Chieti","net_migr0111_pc":"6.2"}
+,{"nuts_id":"ITF21","nuts_name":"Isernia","net_migr0111_pc":"2.4"}
+,{"nuts_id":"ITF22","nuts_name":"Campobasso","net_migr0111_pc":"2.5"}
+,{"nuts_id":"ITF31","nuts_name":"Caserta","net_migr0111_pc":"4"}
+,{"nuts_id":"ITF32","nuts_name":"Benevento","net_migr0111_pc":"1.8"}
+,{"nuts_id":"ITF33","nuts_name":"Napoli","net_migr0111_pc":"-3.2"}
+,{"nuts_id":"ITF34","nuts_name":"Avellino","net_migr0111_pc":"3.3"}
+,{"nuts_id":"ITF35","nuts_name":"Salerno","net_migr0111_pc":"2.5"}
+,{"nuts_id":"ITF43","nuts_name":"Taranto","net_migr0111_pc":"-1.5"}
+,{"nuts_id":"ITF44","nuts_name":"Brindisi","net_migr0111_pc":"-0.5"}
+,{"nuts_id":"ITF45","nuts_name":"Lecce","net_migr0111_pc":"3.1"}
+,{"nuts_id":"ITF46","nuts_name":"Foggia"}
+,{"nuts_id":"ITF47","nuts_name":"Bari"}
+,{"nuts_id":"ITF48","nuts_name":"Barletta-Andria-Trani"}
+,{"nuts_id":"ITF51","nuts_name":"Potenza","net_migr0111_pc":"-1.1"}
+,{"nuts_id":"ITF52","nuts_name":"Matera","net_migr0111_pc":"-0.8"}
+,{"nuts_id":"ITF61","nuts_name":"Cosenza","net_migr0111_pc":"0"}
+,{"nuts_id":"ITF62","nuts_name":"Crotone","net_migr0111_pc":"-2.3"}
+,{"nuts_id":"ITF63","nuts_name":"Catanzaro","net_migr0111_pc":"-0.7"}
+,{"nuts_id":"ITF64","nuts_name":"Vibo Valentia","net_migr0111_pc":"-3.6"}
+,{"nuts_id":"ITF65","nuts_name":"Reggio di Calabria","net_migr0111_pc":"0"}
+,{"nuts_id":"ITG11","nuts_name":"Trapani","net_migr0111_pc":"2.9"}
+,{"nuts_id":"ITG12","nuts_name":"Palermo","net_migr0111_pc":"-0.8"}
+,{"nuts_id":"ITG13","nuts_name":"Messina","net_migr0111_pc":"0.6"}
+,{"nuts_id":"ITG14","nuts_name":"Agrigento","net_migr0111_pc":"0.6"}
+,{"nuts_id":"ITG15","nuts_name":"Caltanissetta","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"ITG16","nuts_name":"Enna","net_migr0111_pc":"-2.4"}
+,{"nuts_id":"ITG17","nuts_name":"Catania","net_migr0111_pc":"1.3"}
+,{"nuts_id":"ITG18","nuts_name":"Ragusa","net_migr0111_pc":"6.8"}
+,{"nuts_id":"ITG19","nuts_name":"Siracusa","net_migr0111_pc":"1.2"}
+,{"nuts_id":"ITG25","nuts_name":"Sassari","net_migr0111_pc":"5.1"}
+,{"nuts_id":"ITG26","nuts_name":"Nuoro","net_migr0111_pc":"-1.6"}
+,{"nuts_id":"ITG27","nuts_name":"Cagliari","net_migr0111_pc":"3"}
+,{"nuts_id":"ITG28","nuts_name":"Oristano","net_migr0111_pc":"1.4"}
+,{"nuts_id":"ITG29","nuts_name":"Olbia-Tempio","net_migr0111_pc":"13.2"}
+,{"nuts_id":"ITG2A","nuts_name":"Ogliastra","net_migr0111_pc":"-0.4"}
+,{"nuts_id":"ITG2B","nuts_name":"Medio Campidano","net_migr0111_pc":"-1.2"}
+,{"nuts_id":"ITG2C","nuts_name":"Carbonia-Iglesias","net_migr0111_pc":"0.1"}
+,{"nuts_id":"ITH10","nuts_name":"Bolzano-Bozen","net_migr0111_pc":"6.4"}
+,{"nuts_id":"ITH20","nuts_name":"Trento","net_migr0111_pc":"10"}
+,{"nuts_id":"ITH31","nuts_name":"Verona","net_migr0111_pc":"10.6"}
+,{"nuts_id":"ITH32","nuts_name":"Vicenza","net_migr0111_pc":"8"}
+,{"nuts_id":"ITH33","nuts_name":"Belluno","net_migr0111_pc":"5.4"}
+,{"nuts_id":"ITH34","nuts_name":"Treviso","net_migr0111_pc":"10.1"}
+,{"nuts_id":"ITH35","nuts_name":"Venezia","net_migr0111_pc":"7.5"}
+,{"nuts_id":"ITH36","nuts_name":"Padova","net_migr0111_pc":"9.4"}
+,{"nuts_id":"ITH37","nuts_name":"Rovigo","net_migr0111_pc":"6.1"}
+,{"nuts_id":"ITH41","nuts_name":"Pordenone","net_migr0111_pc":"10.5"}
+,{"nuts_id":"ITH42","nuts_name":"Udine","net_migr0111_pc":"7.5"}
+,{"nuts_id":"ITH43","nuts_name":"Gorizia","net_migr0111_pc":"8.7"}
+,{"nuts_id":"ITH44","nuts_name":"Trieste","net_migr0111_pc":"4.5"}
+,{"nuts_id":"ITH51","nuts_name":"Piacenza","net_migr0111_pc":"14.5"}
+,{"nuts_id":"ITH52","nuts_name":"Parma","net_migr0111_pc":"15.9"}
+,{"nuts_id":"ITH53","nuts_name":"Reggio nell'Emilia","net_migr0111_pc":"16.6"}
+,{"nuts_id":"ITH54","nuts_name":"Modena","net_migr0111_pc":"11.4"}
+,{"nuts_id":"ITH55","nuts_name":"Bologna","net_migr0111_pc":"11.5"}
+,{"nuts_id":"ITH56","nuts_name":"Ferrara","net_migr0111_pc":"10.6"}
+,{"nuts_id":"ITH57","nuts_name":"Ravenna","net_migr0111_pc":"15.8"}
+,{"nuts_id":"ITH58","nuts_name":"Forlì-Cesena","net_migr0111_pc":"11.4"}
+,{"nuts_id":"ITH59","nuts_name":"Rimini"}
+,{"nuts_id":"ITI11","nuts_name":"Massa-Carrara","net_migr0111_pc":"7.7"}
+,{"nuts_id":"ITI12","nuts_name":"Lucca","net_migr0111_pc":"9.4"}
+,{"nuts_id":"ITI13","nuts_name":"Pistoia","net_migr0111_pc":"11.9"}
+,{"nuts_id":"ITI14","nuts_name":"Firenze","net_migr0111_pc":"9.1"}
+,{"nuts_id":"ITI15","nuts_name":"Prato","net_migr0111_pc":"8.8"}
+,{"nuts_id":"ITI16","nuts_name":"Livorno","net_migr0111_pc":"9"}
+,{"nuts_id":"ITI17","nuts_name":"Pisa","net_migr0111_pc":"11.2"}
+,{"nuts_id":"ITI18","nuts_name":"Arezzo","net_migr0111_pc":"11.3"}
+,{"nuts_id":"ITI19","nuts_name":"Siena","net_migr0111_pc":"12.5"}
+,{"nuts_id":"ITI1A","nuts_name":"Grosseto","net_migr0111_pc":"13.1"}
+,{"nuts_id":"ITI21","nuts_name":"Perugia","net_migr0111_pc":"12.9"}
+,{"nuts_id":"ITI22","nuts_name":"Terni","net_migr0111_pc":"11.3"}
+,{"nuts_id":"ITI31","nuts_name":"Pesaro e Urbino"}
+,{"nuts_id":"ITI32","nuts_name":"Ancona","net_migr0111_pc":"9.3"}
+,{"nuts_id":"ITI33","nuts_name":"Macerata","net_migr0111_pc":"10.4"}
+,{"nuts_id":"ITI34","nuts_name":"Ascoli Piceno"}
+,{"nuts_id":"ITI35","nuts_name":"Fermo"}
+,{"nuts_id":"ITI41","nuts_name":"Viterbo","net_migr0111_pc":"14.3"}
+,{"nuts_id":"ITI42","nuts_name":"Rieti","net_migr0111_pc":"13"}
+,{"nuts_id":"ITI43","nuts_name":"Roma","net_migr0111_pc":"12.1"}
+,{"nuts_id":"ITI44","nuts_name":"Latina","net_migr0111_pc":"11.2"}
+,{"nuts_id":"ITI45","nuts_name":"Frosinone","net_migr0111_pc":"4"}
+,{"nuts_id":"CY000","nuts_name":"Kýpros","net_migr0111_pc":"12.7"}
+,{"nuts_id":"LV003","nuts_name":"Kurzeme","net_migr0111_pc":"-3.5"}
+,{"nuts_id":"LV005","nuts_name":"Latgale","net_migr0111_pc":"-4.3"}
+,{"nuts_id":"LV006","nuts_name":"Rīga","net_migr0111_pc":"-3.7"}
+,{"nuts_id":"LV007","nuts_name":"Pierīga","net_migr0111_pc":"11.6"}
+,{"nuts_id":"LV008","nuts_name":"Vidzeme","net_migr0111_pc":"-4.6"}
+,{"nuts_id":"LV009","nuts_name":"Zemgale","net_migr0111_pc":"-1.2"}
+,{"nuts_id":"LT001","nuts_name":"Alytaus apskritis","net_migr0111_pc":"-6.7"}
+,{"nuts_id":"LT002","nuts_name":"Kauno apskritis","net_migr0111_pc":"-5.3"}
+,{"nuts_id":"LT003","nuts_name":"Klaipėdos apskritis","net_migr0111_pc":"-3.7"}
+,{"nuts_id":"LT004","nuts_name":"Marijampolės apskritis","net_migr0111_pc":"-5"}
+,{"nuts_id":"LT005","nuts_name":"Panevėžio apskritis","net_migr0111_pc":"-5.6"}
+,{"nuts_id":"LT006","nuts_name":"Šiaulių apskritis","net_migr0111_pc":"-7.9"}
+,{"nuts_id":"LT007","nuts_name":"Tauragės apskritis","net_migr0111_pc":"-6.2"}
+,{"nuts_id":"LT008","nuts_name":"Telšių apskritis","net_migr0111_pc":"-6"}
+,{"nuts_id":"LT009","nuts_name":"Utenos apskritis","net_migr0111_pc":"-5.5"}
+,{"nuts_id":"LT00A","nuts_name":"Vilniaus apskritis","net_migr0111_pc":"0.3"}
+,{"nuts_id":"LU000","nuts_name":"Luxembourg","net_migr0111_pc":"12.2"}
+,{"nuts_id":"HU101","nuts_name":"Budapest","net_migr0111_pc":"2.3"}
+,{"nuts_id":"HU102","nuts_name":"Pest","net_migr0111_pc":"17.2"}
+,{"nuts_id":"HU211","nuts_name":"Fejér","net_migr0111_pc":"1.9"}
+,{"nuts_id":"HU212","nuts_name":"Komárom-Esztergom","net_migr0111_pc":"2"}
+,{"nuts_id":"HU213","nuts_name":"Veszprém","net_migr0111_pc":"-1.4"}
+,{"nuts_id":"HU221","nuts_name":"Győr-Moson-Sopron","net_migr0111_pc":"6.3"}
+,{"nuts_id":"HU222","nuts_name":"Vas","net_migr0111_pc":"0.6"}
+,{"nuts_id":"HU223","nuts_name":"Zala","net_migr0111_pc":"1"}
+,{"nuts_id":"HU231","nuts_name":"Baranya","net_migr0111_pc":"-0.2"}
+,{"nuts_id":"HU232","nuts_name":"Somogy","net_migr0111_pc":"-0.8"}
+,{"nuts_id":"HU233","nuts_name":"Tolna","net_migr0111_pc":"-3.4"}
+,{"nuts_id":"HU311","nuts_name":"Borsod-Abaúj-Zemplén","net_migr0111_pc":"-5.7"}
+,{"nuts_id":"HU312","nuts_name":"Heves","net_migr0111_pc":"-1.2"}
+,{"nuts_id":"HU313","nuts_name":"Nógrád","net_migr0111_pc":"-3.6"}
+,{"nuts_id":"HU321","nuts_name":"Hajdú-Bihar","net_migr0111_pc":"-0.7"}
+,{"nuts_id":"HU322","nuts_name":"Jász-Nagykun-Szolnok","net_migr0111_pc":"-3.7"}
+,{"nuts_id":"HU323","nuts_name":"Szabolcs-Szatmár-Bereg","net_migr0111_pc":"-4.3"}
+,{"nuts_id":"HU331","nuts_name":"Bács-Kiskun","net_migr0111_pc":"0"}
+,{"nuts_id":"HU332","nuts_name":"Békés","net_migr0111_pc":"-3.9"}
+,{"nuts_id":"HU333","nuts_name":"Csongrád","net_migr0111_pc":"2.5"}
+,{"nuts_id":"MT001","nuts_name":"Malta","net_migr0111_pc":"4.6"}
+,{"nuts_id":"MT002","nuts_name":"Gozo and Comino / Għawdex u Kemmuna","net_migr0111_pc":"3.4"}
+,{"nuts_id":"NL111","nuts_name":"Oost-Groningen","net_migr0111_pc":"-0.5"}
+,{"nuts_id":"NL112","nuts_name":"Delfzijl en omgeving","net_migr0111_pc":"-5.9"}
+,{"nuts_id":"NL113","nuts_name":"Overig Groningen","net_migr0111_pc":"2.5"}
+,{"nuts_id":"NL121","nuts_name":"Noord-Friesland","net_migr0111_pc":"-0.9"}
+,{"nuts_id":"NL122","nuts_name":"Zuidwest-Friesland","net_migr0111_pc":"0"}
+,{"nuts_id":"NL123","nuts_name":"Zuidoost-Friesland","net_migr0111_pc":"1.2"}
+,{"nuts_id":"NL131","nuts_name":"Noord-Drenthe","net_migr0111_pc":"3.9"}
+,{"nuts_id":"NL132","nuts_name":"Zuidoost-Drenthe","net_migr0111_pc":"0.4"}
+,{"nuts_id":"NL133","nuts_name":"Zuidwest-Drenthe","net_migr0111_pc":"1.4"}
+,{"nuts_id":"NL211","nuts_name":"Noord-Overijssel","net_migr0111_pc":"0.8"}
+,{"nuts_id":"NL212","nuts_name":"Zuidwest-Overijssel","net_migr0111_pc":"2.5"}
+,{"nuts_id":"NL213","nuts_name":"Twente","net_migr0111_pc":"-0.5"}
+,{"nuts_id":"NL221","nuts_name":"Veluwe","net_migr0111_pc":"0.3"}
+,{"nuts_id":"NL224","nuts_name":"Zuidwest-Gelderland","net_migr0111_pc":"-1"}
+,{"nuts_id":"NL225","nuts_name":"Achterhoek","net_migr0111_pc":"3.7"}
+,{"nuts_id":"NL226","nuts_name":"Arnhem/Nijmegen","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"NL230","nuts_name":"Flevoland","net_migr0111_pc":"8.8"}
+,{"nuts_id":"NL310","nuts_name":"Utrecht","net_migr0111_pc":"3.7"}
+,{"nuts_id":"NL321","nuts_name":"Kop van Noord-Holland","net_migr0111_pc":"0.1"}
+,{"nuts_id":"NL322","nuts_name":"Alkmaar en omgeving","net_migr0111_pc":"-4.2"}
+,{"nuts_id":"NL323","nuts_name":"IJmond","net_migr0111_pc":"9.4"}
+,{"nuts_id":"NL324","nuts_name":"Agglomeratie Haarlem","net_migr0111_pc":"0.2"}
+,{"nuts_id":"NL325","nuts_name":"Zaanstreek","net_migr0111_pc":"4"}
+,{"nuts_id":"NL326","nuts_name":"Groot-Amsterdam","net_migr0111_pc":"2.6"}
+,{"nuts_id":"NL327","nuts_name":"Het Gooi en Vechtstreek","net_migr0111_pc":"4.1"}
+,{"nuts_id":"NL332","nuts_name":"Agglomeratie 's-Gravenhage","net_migr0111_pc":"3.2"}
+,{"nuts_id":"NL333","nuts_name":"Delft en Westland","net_migr0111_pc":"4.2"}
+,{"nuts_id":"NL337","nuts_name":"Agglomeratie Leiden en Bollenstreek"}
+,{"nuts_id":"NL338","nuts_name":"Oost-Zuid-Holland"}
+,{"nuts_id":"NL339","nuts_name":"Groot-Rijnmond"}
+,{"nuts_id":"NL33A","nuts_name":"Zuidoost-Zuid-Holland"}
+,{"nuts_id":"NL341","nuts_name":"Zeeuwsch-Vlaanderen","net_migr0111_pc":"0.5"}
+,{"nuts_id":"NL342","nuts_name":"Overig Zeeland","net_migr0111_pc":"1.2"}
+,{"nuts_id":"NL411","nuts_name":"West-Noord-Brabant","net_migr0111_pc":"1.2"}
+,{"nuts_id":"NL412","nuts_name":"Midden-Noord-Brabant","net_migr0111_pc":"0"}
+,{"nuts_id":"NL413","nuts_name":"Noordoost-Noord-Brabant","net_migr0111_pc":"-0.9"}
+,{"nuts_id":"NL414","nuts_name":"Zuidoost-Noord-Brabant","net_migr0111_pc":"0"}
+,{"nuts_id":"NL421","nuts_name":"Noord-Limburg","net_migr0111_pc":"-0.5"}
+,{"nuts_id":"NL422","nuts_name":"Midden-Limburg","net_migr0111_pc":"6"}
+,{"nuts_id":"NL423","nuts_name":"Zuid-Limburg","net_migr0111_pc":"-4.4"}
+,{"nuts_id":"AT111","nuts_name":"Mittelburgenland","net_migr0111_pc":"3"}
+,{"nuts_id":"AT112","nuts_name":"Nordburgenland","net_migr0111_pc":"8.8"}
+,{"nuts_id":"AT113","nuts_name":"Südburgenland","net_migr0111_pc":"3.6"}
+,{"nuts_id":"AT121","nuts_name":"Mostviertel-Eisenwurzen","net_migr0111_pc":"0.6"}
+,{"nuts_id":"AT122","nuts_name":"Niederösterreich-Süd","net_migr0111_pc":"4.5"}
+,{"nuts_id":"AT123","nuts_name":"Sankt Pölten","net_migr0111_pc":"5.2"}
+,{"nuts_id":"AT124","nuts_name":"Waldviertel","net_migr0111_pc":"0.3"}
+,{"nuts_id":"AT125","nuts_name":"Weinviertel","net_migr0111_pc":"4.1"}
+,{"nuts_id":"AT126","nuts_name":"Wiener Umland/Nordteil","net_migr0111_pc":"12.2"}
+,{"nuts_id":"AT127","nuts_name":"Wiener Umland/Südteil","net_migr0111_pc":"10"}
+,{"nuts_id":"AT130","nuts_name":"Wien","net_migr0111_pc":"9.9"}
+,{"nuts_id":"AT211","nuts_name":"Klagenfurt-Villach","net_migr0111_pc":"4.3"}
+,{"nuts_id":"AT212","nuts_name":"Oberkärnten","net_migr0111_pc":"-2.2"}
+,{"nuts_id":"AT213","nuts_name":"Unterkärnten","net_migr0111_pc":"-2.7"}
+,{"nuts_id":"AT221","nuts_name":"Graz","net_migr0111_pc":"13"}
+,{"nuts_id":"AT222","nuts_name":"Liezen","net_migr0111_pc":"-1.8"}
+,{"nuts_id":"AT223","nuts_name":"Östliche Obersteiermark","net_migr0111_pc":"-1.7"}
+,{"nuts_id":"AT224","nuts_name":"Oststeiermark","net_migr0111_pc":"-0.1"}
+,{"nuts_id":"AT225","nuts_name":"West- und Südsteiermark","net_migr0111_pc":"1.8"}
+,{"nuts_id":"AT226","nuts_name":"Westliche Obersteiermark","net_migr0111_pc":"-3.6"}
+,{"nuts_id":"AT311","nuts_name":"Innviertel","net_migr0111_pc":"0.7"}
+,{"nuts_id":"AT312","nuts_name":"Linz-Wels","net_migr0111_pc":"4.1"}
+,{"nuts_id":"AT313","nuts_name":"Mühlviertel","net_migr0111_pc":"-0.9"}
+,{"nuts_id":"AT314","nuts_name":"Steyr-Kirchdorf","net_migr0111_pc":"0.1"}
+,{"nuts_id":"AT315","nuts_name":"Traunviertel","net_migr0111_pc":"1.1"}
+,{"nuts_id":"AT321","nuts_name":"Lungau","net_migr0111_pc":"-3"}
+,{"nuts_id":"AT322","nuts_name":"Pinzgau-Pongau","net_migr0111_pc":"-1.8"}
+,{"nuts_id":"AT323","nuts_name":"Salzburg und Umgebung","net_migr0111_pc":"3"}
+,{"nuts_id":"AT331","nuts_name":"Außerfern","net_migr0111_pc":"-0.8"}
+,{"nuts_id":"AT332","nuts_name":"Innsbruck","net_migr0111_pc":"5.5"}
+,{"nuts_id":"AT333","nuts_name":"Osttirol","net_migr0111_pc":"-3"}
+,{"nuts_id":"AT334","nuts_name":"Tiroler Oberland","net_migr0111_pc":"1.6"}
+,{"nuts_id":"AT335","nuts_name":"Tiroler Unterland","net_migr0111_pc":"3"}
+,{"nuts_id":"AT341","nuts_name":"Bludenz-Bregenzer Wald","net_migr0111_pc":"-1.2"}
+,{"nuts_id":"AT342","nuts_name":"Rheintal-Bodenseegebiet","net_migr0111_pc":"2.7"}
+,{"nuts_id":"PL113","nuts_name":"Miasto Łódź","net_migr0111_pc":"-2.1"}
+,{"nuts_id":"PL114","nuts_name":"Łódzki","net_migr0111_pc":"4.6"}
+,{"nuts_id":"PL115","nuts_name":"Piotrkowski","net_migr0111_pc":"-1"}
+,{"nuts_id":"PL116","nuts_name":"Sieradzki","net_migr0111_pc":"-1"}
+,{"nuts_id":"PL117","nuts_name":"Skierniewicki","net_migr0111_pc":"-1.8"}
+,{"nuts_id":"PL121","nuts_name":"Ciechanowsko-płocki","net_migr0111_pc":"-1.5"}
+,{"nuts_id":"PL122","nuts_name":"Ostrołęcko-siedlecki","net_migr0111_pc":"-2"}
+,{"nuts_id":"PL127","nuts_name":"Miasto Warszawa","net_migr0111_pc":"3.1"}
+,{"nuts_id":"PL128","nuts_name":"Radomski","net_migr0111_pc":"-2.1"}
+,{"nuts_id":"PL129","nuts_name":"Warszawski-wschodni","net_migr0111_pc":"6.5"}
+,{"nuts_id":"PL12A","nuts_name":"Warszawski-zachodni","net_migr0111_pc":"9.5"}
+,{"nuts_id":"PL213","nuts_name":"Miasto Kraków","net_migr0111_pc":"0.1"}
+,{"nuts_id":"PL214","nuts_name":"Krakowski","net_migr0111_pc":"5.2"}
+,{"nuts_id":"PL215","nuts_name":"Nowosądecki","net_migr0111_pc":"-0.2"}
+,{"nuts_id":"PL216","nuts_name":"Oświęcimski","net_migr0111_pc":"-0.2"}
+,{"nuts_id":"PL217","nuts_name":"Tarnowski","net_migr0111_pc":"1.3"}
+,{"nuts_id":"PL224","nuts_name":"Częstochowski","net_migr0111_pc":"-0.6"}
+,{"nuts_id":"PL225","nuts_name":"Bielski","net_migr0111_pc":"1.6"}
+,{"nuts_id":"PL227","nuts_name":"Rybnicki","net_migr0111_pc":"-3.1"}
+,{"nuts_id":"PL228","nuts_name":"Bytomski","net_migr0111_pc":"-3.1"}
+,{"nuts_id":"PL229","nuts_name":"Gliwicki","net_migr0111_pc":"-4"}
+,{"nuts_id":"PL22A","nuts_name":"Katowicki","net_migr0111_pc":"-3.7"}
